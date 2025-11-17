@@ -8,24 +8,24 @@ on:
     # Adjust refresh schedule here. By default, it runs once per day.
     # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
     # Recommended tool: https://crontab.guru/
-    - cron: "0 0 * * *"
+    - cron: "0 11 * * *"    #设置的执行时间周期
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.1.4
+        uses: actions/setup-node@v4.0.3
         with:
-          node-version: "16"
+          node-version: "20"
       - name: Install dependencies
         run: npm i
       - name: Build the feed
         run: npm run build
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.action_token }}   #action_token为设置的Actions secrets ，后面会讲到
           publish_dir: ./public
