@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T11:14:09.925Z</id>
+    <id>urn:2025-11-19T11:13:32.139Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T11:14:09.926Z</updated>
+    <updated>2025-11-19T11:13:32.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use to Docker with Node.js: A Handbook for Developers]]></title>
+        <id>691cf09fea147a95b92d3551</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-to-docker-with-nodejs-handbook/"/>
+        <updated>2025-11-18T22:18:07.000Z</updated>
+        <summary type="html"><![CDATA[In this handbook, you’ll learn what Docker is, why it’s become an essential, must-have skill for backend and full-stack developers in 2025, and most importantly, how to use it in real-world projects from start to finish. We will go far beyond the usu...]]></summary>
+        <author>
+            <name>oghenekparobo Stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Compress Your Prompts and Reduce LLM Costs]]></title>
+        <id>691cc4c083c778add388cc95</id>
+        <link href="https://www.freecodecamp.org/news/how-to-compress-your-prompts-and-reduce-llm-costs/"/>
+        <updated>2025-11-18T19:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Every developer working with large language models eventually faces the same challenge: prompts keep getting longer, models keep getting slower, and API bills keep getting higher. Whether you’re building a retrieval-augmented generation (RAG) system ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level Up Your JavaScript – Detect Smells & Write Clean Code]]></title>
+        <id>691c87f2e14e4f3c7eeb659e</id>
+        <link href="https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/"/>
+        <updated>2025-11-18T14:51:30.000Z</updated>
+        <summary type="html"><![CDATA[We just posted course on freeCodeCamp.org YouTube channel that will teach you how to transform messy, hard-to-maintain JavaScript code into clean, readable, and professional-quality code that scales. This course was developed by Tapas Adhikary. He'll...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
+        <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
+        <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
+        <updated>2025-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Portfolio Website Using Figma and AI Tools – A Guide for Developers]]></title>
         <id>691b93910ca13a7c59ae7a34</id>
@@ -105,36 +145,6 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Godstime Aburu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Pixels to Predictions: How GPUs Started Powering Modern AI]]></title>
-        <id>69164b0a612455db63b30bdc</id>
-        <link href="https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/"/>
-        <updated>2025-11-13T21:18:02.000Z</updated>
-        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers. What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC. The sa...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver]]></title>
-        <id>69164aadd6505b750fa4b659</id>
-        <link href="https://www.freecodecamp.org/news/how-bluetooth-socket-settings-power-androids-low-power-island-a-friendly-deep-dive-into-aosps-hidden-energy-saver/"/>
-        <updated>2025-11-13T21:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Picture this: you’re sitting in a café with your laptop open, phone on the table, smartwatch buzzing every few minutes, and Bluetooth earbuds playing music. From your perspective, life is peaceful. From your phone’s perspective, it’s juggling a ridic...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secret Life of Your CPU: Exploring the Low Power Island in Android Bluetooth]]></title>
-        <id>69164a5b08d80a5fa5d56f1e</id>
-        <link href="https://www.freecodecamp.org/news/the-secret-life-of-your-cpu-exploring-the-low-power-island-in-android-bluetooth/"/>
-        <updated>2025-11-13T21:15:07.000Z</updated>
-        <summary type="html"><![CDATA[If your phone were a person, it would probably be that overachieving friend who cannot sit still. The kind who insists they are relaxing while secretly running errands, replying to messages, and checking the weather at the same time. Inside your Andr...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
         </author>
     </entry>
     <entry>
@@ -304,17 +314,6 @@ An Introduction to JavaScript Expressions originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Honeypot Field That Works]]></title>
-        <id>https://css-tricks.com/?p=388560</id>
-        <link href="https://css-tricks.com/building-a-honeypot-field-that-works/"/>
-        <updated>2025-10-20T16:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.
-Building a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
