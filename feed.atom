@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-20T11:14:07.201Z</id>
+    <id>urn:2025-11-21T11:12:50.168Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-20T11:14:07.201Z</updated>
+    <updated>2025-11-21T11:12:50.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
+        <id>https://css-tricks.com/?p=390115</id>
+        <link href="https://css-tricks.com/should-we-even-have-closed/"/>
+        <updated>2025-11-20T15:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.
+Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI is Transforming Enterprise Operations]]></title>
         <id>691e0d7802a17c33f13c6a0c</id>
@@ -40,9 +51,9 @@
         <id>691cf09fea147a95b92d3551</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-to-docker-with-nodejs-handbook/"/>
         <updated>2025-11-18T22:18:07.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, you’ll learn what Docker is, why it’s become an essential, must-have skill for backend and full-stack developers in 2025, and most importantly, how to use it in real-world projects from start to finish. We will go far beyond the usu...]]></summary>
+        <summary type="html"><![CDATA[In this handbook, you’ll learn what Docker is and why it’s a must-have skill for backend and full-stack developers. And, most importantly, you’ll learn how to use it in real-world projects from start to finish. We will go far beyond the usual “Hello ...]]></summary>
         <author>
-            <name>oghenekparobo Stephen</name>
+            <name>Oghenekparobo Stephen</name>
         </author>
     </entry>
     <entry>
@@ -56,7 +67,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Level Up Your JavaScript – Detect Smells & Write Clean Code]]></title>
+        <title type="html"><![CDATA[JavaScript Clean Code Course – How to Detect Code Smells and Refactor Accordingly]]></title>
         <id>691c87f2e14e4f3c7eeb659e</id>
         <link href="https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/"/>
         <updated>2025-11-18T14:51:30.000Z</updated>
@@ -110,7 +121,7 @@
         <id>691b3887dbd8303d75f4137c</id>
         <link href="https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/"/>
         <updated>2025-11-17T15:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Backend development involves building the server-side "brain" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...]]></summary>
+        <summary type="html"><![CDATA[Backend development involves building the server-side "brain" of a website that manages user data, authentication, and database communication. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to construct a basi...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -293,27 +304,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
 CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to JavaScript Expressions]]></title>
-        <id>https://css-tricks.com/?p=389961</id>
-        <link href="https://css-tricks.com/an-introduction-to-javascript-expressions/"/>
-        <updated>2025-10-22T19:08:23.000Z</updated>
-        <summary type="html"><![CDATA[A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.
-An Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
-        <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
-        <updated>2025-10-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
