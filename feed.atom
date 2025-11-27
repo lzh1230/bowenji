@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-26T11:14:23.861Z</id>
+    <id>urn:2025-11-27T11:14:00.040Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-26T11:14:23.861Z</updated>
+    <updated>2025-11-27T11:14:00.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Driven Search Experience using Meilisearch]]></title>
+        <id>692782273df4e33b78a46d72</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-driven-search-experience-using-meilisearch/"/>
+        <updated>2025-11-26T22:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Search is one of the most important features in modern applications. Users expect instant answers, useful suggestions, and results that match their intent even when they make spelling mistakes.  Most traditional search systems struggle to deliver thi...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theming and Customization in Flutter: A Handbook for Developers]]></title>
+        <id>6927302dc91eac2c85873f95</id>
+        <link href="https://www.freecodecamp.org/news/theming-and-customization-in-flutter-a-handbook-for-developers/"/>
+        <updated>2025-11-26T16:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Design is not just about how something looks. In product engineering, design shapes how an experience feels, how users interact with it, and how consistently the brand comes alive across every screen. Flutter provides powerful tools for this, but tru...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp's Top Open Source Contributors of 2025]]></title>
         <id>69260ed9916e6c8689496788</id>
@@ -86,6 +106,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On Inheriting and Sharing Property Values]]></title>
+        <id>https://css-tricks.com/?p=389944</id>
+        <link href="https://css-tricks.com/on-inheriting-and-sharing-property-values/"/>
+        <updated>2025-11-24T14:22:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?
+On Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Designing For Stress And Emergency]]></title>
         <id>https://smashingmagazine.com/2025/11/designing-for-stress-emergency/</id>
         <link href="https://smashingmagazine.com/2025/11/designing-for-stress-emergency/"/>
@@ -106,23 +137,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Django REST Framework - Build Backend APIs with DRF]]></title>
-        <id>6920d5f802099ac646b401c5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-django-rest-framework/"/>
-        <updated>2025-11-21T21:13:28.000Z</updated>
-        <summary type="html"><![CDATA[When you click on most backend development tutorials, they often teach you what to do, not how to think.That’s why many developers only realize their mistakes after they start building. So, how does one actually think like a backend developer? Before...]]></summary>
+        <title type="html"><![CDATA[Sketch: A guided tour of Copenhagen]]></title>
+        <id>https://css-tricks.com/?p=390539</id>
+        <link href="https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/"/>
+        <updated>2025-11-21T18:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Sketch probably didn't "have" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.
+Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Mari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use NLP Techniques and Tools in Your Projects [Full Handbook]]]></title>
-        <id>692096d4afb994c2aecc26e9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-nlp-techniques-and-tools-in-your-projects-full-handbook/"/>
-        <updated>2025-11-21T16:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Nowadays, computers can comprehend and produce human-like language thanks to Natural Language Processing. And this opens up numerous opportunities for you as a developer. This guide will teach you how to create NLP projects from scratch. It includes ...]]></summary>
-        <author>
-            <name>Oleh Romanyuk</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +158,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
+        <id>https://css-tricks.com/?p=390115</id>
+        <link href="https://css-tricks.com/should-we-even-have-closed/"/>
+        <updated>2025-11-20T15:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.
+Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
         <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
         <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
@@ -146,6 +179,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()]]></title>
+        <id>https://css-tricks.com/?p=390236</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/"/>
+        <updated>2025-11-17T14:47:54.000Z</updated>
+        <summary type="html"><![CDATA[If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!
+The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
+        <id>https://css-tricks.com/?p=390408</id>
+        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
+        <updated>2025-11-14T15:32:50.000Z</updated>
+        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
+Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
         <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
         <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
@@ -153,6 +208,17 @@
         <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
+        <id>https://css-tricks.com/?p=390178</id>
+        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
+        <updated>2025-11-13T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
+The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +242,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Headings: Semantics, Fluidity, and Styling — Oh My!]]></title>
+        <id>https://css-tricks.com/?p=389885</id>
+        <link href="https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/"/>
+        <updated>2025-11-10T14:44:13.000Z</updated>
+        <summary type="html"><![CDATA[A few links about headings that I've had stored under my top hat.
+Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties]]></title>
         <id>https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/</id>
         <link href="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/"/>
@@ -183,6 +260,17 @@
         <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
+        <id>https://css-tricks.com/?p=385769</id>
+        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
+        <updated>2025-11-06T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
+Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -206,6 +294,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
+        <id>https://css-tricks.com/?p=389842</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
+        <updated>2025-11-03T16:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
+That shocked me. I may have even been a little offended, being a math nerd and …
+The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
         <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
@@ -213,6 +313,17 @@
         <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Small Screens]]></title>
+        <id>https://css-tricks.com/?p=390031</id>
+        <link href="https://css-tricks.com/getting-creative-with-small-screens/"/>
+        <updated>2025-10-29T16:22:28.000Z</updated>
+        <summary type="html"><![CDATA[On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.
+Getting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
         </author>
     </entry>
 </feed>
