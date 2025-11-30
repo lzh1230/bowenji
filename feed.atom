@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-29T11:12:08.459Z</id>
+    <id>urn:2025-11-30T11:12:12.668Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T11:12:08.459Z</updated>
+    <updated>2025-11-30T11:12:12.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Sparkle Of December Magic (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/</id>
+        <link href="https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/"/>
+        <updated>2025-11-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tips from a Serial Career Changer with GitHub's Andrea Griffiths [Podcast #199]]]></title>
         <id>6929b680d93baaf4c44b19fa</id>
@@ -313,16 +323,6 @@ That shocked me. I may have even been a little offended, being a math nerd and �
 The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
-        <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
-        <updated>2025-10-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
