@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T11:15:10.005Z</id>
+    <id>urn:2025-12-03T11:15:08.818Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T11:15:10.005Z</updated>
+    <updated>2025-12-03T11:15:08.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn NestJS for Beginners]]></title>
+        <id>692f67007fa18557e4b8ce73</id>
+        <link href="https://www.freecodecamp.org/news/learn-nestjs-for-beginners/"/>
+        <updated>2025-12-02T22:24:00.000Z</updated>
+        <summary type="html"><![CDATA[NestJS is a progressive Node.js framework for building efficient and reliable server-side applications. It uses TypeScript by default and encourages clean, modular code with concepts including controllers, services, and dependency injection. We just ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn R Programming from Harvard University]]></title>
+        <id>692f65b7eaee334f9337fc73</id>
+        <link href="https://www.freecodecamp.org/news/learn-r-programming-from-harvard-university/"/>
+        <updated>2025-12-02T22:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Harvard University creates amazing beginner computer science courses. We just released Harvard CS50’s introduction to programming using a language called R, a popular language for statistical computing and graphics in data science and other domains. ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
+        <id>https://css-tricks.com/?p=390205</id>
+        <link href="https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/"/>
+        <updated>2025-12-02T16:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.
+Scrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's New Responsive Web Design Certification is Now Live]]></title>
+        <id>692f044a17ed56d5a1781fb1</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-new-responsive-web-design-certification-is-now-live/"/>
+        <updated>2025-12-02T15:22:50.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new Responsive Web Design certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with ...]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry: Things You Won’t Need A Library For Anymore]]></title>
+        <id>https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/</id>
+        <link href="https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/"/>
+        <updated>2025-12-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prevent a page from scrolling while a dialog is open]]></title>
         <id>https://css-tricks.com/?p=390613</id>
@@ -116,36 +167,6 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         <summary type="html"><![CDATA[Developers are smart, wonderful people, and they’re some of the most logical thinkers you’ll ever meet. But we’re pretty terrible at naming things 😂 Like, what in the world – out of every other possible name, they decided to name a database after a ...]]></summary>
         <author>
             <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Vibe Coding Effectively as a Dev]]></title>
-        <id>6925deb0b459e862808eb04c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-vibe-coding-effectively-as-a-dev/"/>
-        <updated>2025-11-25T16:52:00.000Z</updated>
-        <summary type="html"><![CDATA[It may seem like everyone is a vibe coder these days, and prompting seemed like it would become the new coding. But is this AI-generated code really deployable? Bragging on social media about a clever script is one thing, but pushing a vibe coded app...]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Closures Work in JavaScript: A Handbook for Developers]]></title>
-        <id>6925c63dff3af82fd3477d27</id>
-        <link href="https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/"/>
-        <updated>2025-11-25T15:07:41.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning JavaScript, you've probably heard the term "closure" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify Your React Components with Derived State]]></title>
-        <id>6924c6fb01ae89275dfb14f6</id>
-        <link href="https://www.freecodecamp.org/news/simplify-react-components-with-derived-state/"/>
-        <updated>2025-11-24T20:58:35.000Z</updated>
-        <summary type="html"><![CDATA[React simplifies building user interfaces with hooks like useState for managing dynamic values. But it's common to overuse useState. This often leads to duplicated data and unnecessary complexity. For instance, you might store a full name in state wh...]]></summary>
-        <author>
-            <name>Olaleye Blessing</name>
         </author>
     </entry>
     <entry>
@@ -324,18 +345,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         <summary type="html"><![CDATA[With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
-        <id>https://css-tricks.com/?p=389842</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
-        <updated>2025-11-03T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
-That shocked me. I may have even been a little offended, being a math nerd and …
-The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
