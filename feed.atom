@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-24T11:15:04.659Z</id>
+    <id>urn:2025-12-25T11:14:06.268Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T11:15:04.659Z</updated>
+    <updated>2025-12-25T11:14:06.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run a Docker Container in AWS Lambda]]></title>
+        <id>694c7990b7478745bce04604</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-a-docker-container-in-aws-lambda/"/>
+        <updated>2025-12-24T23:38:56.000Z</updated>
+        <summary type="html"><![CDATA[While containers are quite lightweight and provide various benefits, it can be challenging to decide how best to deploy them. There are a number of ways to deploy and run Docker containers. But some are best for orchestrating and managing containers,...]]></summary>
+        <author>
+            <name>Agnes Olorundare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for Technical Job Interviews –  Based on My Experience Landing a Job]]></title>
+        <id>694c23da6c9dee59dd506fea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prepare-for-technical-job-interviews-based-on-my-experience-landing-a-job/"/>
+        <updated>2025-12-24T17:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m Ilyas. I’m a web developer, and this is my story about how I struggled with interviews for a long time and what finally helped me break through. I’ll talk about what failing basic interview questions taught me about recall, preparation, and s...]]></summary>
+        <author>
+            <name>Ilyas Seisov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas gifts for you from the freeCodeCamp community: Learn Python, SQL, Spanish, and more]]></title>
         <id>694b1ba8c5784bd06a2425d7</id>
@@ -118,16 +138,6 @@ text-decoration-inset is Like Padding for Text Decorations originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp's B1 English for Developers Certification is Now Live]]></title>
-        <id>69458ad0ac78bce0b11301d9</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-b1-english-for-developers-certification-is-now-live/"/>
-        <updated>2025-12-19T17:26:40.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published our new B1 English for Developers certification for intermediate learners of English as a second language. You can now sit for the exam to earn the free verified certification, which you can add to your résum...]]></summary>
-        <author>
-            <name>Nielda Karla</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Masonry Layout is Now grid-lanes]]></title>
         <id>https://css-tricks.com/?p=390640</id>
         <link href="https://css-tricks.com/masonry-layout-is-now-grid-lanes/"/>
@@ -136,16 +146,6 @@ text-decoration-inset is Like Padding for Text Decorations originally published 
 Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get promoted as a dev without becoming a manager – Staff Engineer Santosh Yadav interview [Podcast #202]]]></title>
-        <id>6945687d98d5297cf37169d5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-promoted-as-a-dev-without-becoming-a-manager-staff-engineer-santosh-yadav-interview-podcast-202/"/>
-        <updated>2025-12-19T15:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Santosh Yadav. The son of a textile worker, he grew up inner-city Mumbai and studied hard to get into university. From there he's worked as a software engineer for 16 years. Along the way, he's picked up every distincti...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -369,16 +369,6 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design System Culture: What It Is And Why It Matters (Excerpt)]]></title>
-        <id>https://smashingmagazine.com/2025/11/design-system-culture/</id>
-        <link href="https://smashingmagazine.com/2025/11/design-system-culture/"/>
-        <updated>2025-11-25T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ari Stiles)</name>
         </author>
     </entry>
 </feed>
