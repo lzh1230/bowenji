@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T11:16:33.535Z</id>
+    <id>urn:2026-01-09T11:15:18.461Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T11:16:33.535Z</updated>
+    <updated>2026-01-09T11:15:18.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy an AI Agent with LangChain, FastAPI, and Sevalla]]></title>
+        <id>6960413b864205dd1936a070</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-agent-with-langchain-fastapi-and-sevalla/"/>
+        <updated>2026-01-08T23:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is changing how we build software. Just a few years ago, writing code that could talk, decide, or use external data felt hard. Today, thanks to new tools, developers can build smart agents that read messages, reason about them...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3 vs GPT-5.2 vs Gemini 3 Pro: Which Should You Use and When?]]></title>
+        <id>69603fa35fca2eedc43563d3</id>
+        <link href="https://www.freecodecamp.org/news/qwen-vs-gpt-vs-gemini-which-should-you-use/"/>
+        <updated>2026-01-08T23:37:07.000Z</updated>
+        <summary type="html"><![CDATA[A few years back, choosing an AI model was simple. You pick the most capable one you can afford and move on. But today, that approach no longer works. Today, teams use AI across many parts of a system. Customer-facing features. Internal tooling. Rese...]]></summary>
+        <author>
+            <name>Oyedele Tioluwani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Shopify App: A Beginner’s Guide]]></title>
+        <id>696023bf8de30d6097e30e99</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-shopify-app-a-beginners-guide/"/>
+        <updated>2026-01-08T21:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Shopify powers more than a million online stores around the world.  Many store features you see every day, such as discounts, bundles, and order fulfillment are built using apps. These apps are created by developers to extend Shopify and solve real p...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively]]></title>
+        <id>695fd3ec01d33dbb4b94d8a9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/"/>
+        <updated>2026-01-08T15:57:32.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer, you’ll likely want to use AI to boost your productivity and help you save time on menial, repetitive tasks. And nearly every recruiter these days will expect you to understand how to work with AI tools effectively. But there’s ...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize React]]></title>
+        <id>695fce0e01d33dbb4b94d874</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-react/"/>
+        <updated>2026-01-08T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[React makes it easy to build UIs, but building fast React apps is a different skill altogether. We just posted a hands-on, real-world React Performance Optimization course on the freeCodeCamp.org YouTube channel. You’ll learn how React actually re-re...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows]]></title>
+        <id>https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/</id>
+        <link href="https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/"/>
+        <updated>2026-01-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b]]></title>
         <id>695ef4246f1bfe13bf31abe9</id>
@@ -74,56 +134,6 @@ Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Trick
         <summary type="html"><![CDATA["To understand is to perceive patterns." - Isaiah Berlin This is not a math book filled with complex formulas, theorems, and concepts that are hard to grasp. Instead, it’s a detailed guide where we’ll break complex ideas down into simpler terms. Eve...]]></summary>
         <author>
             <name>Tiago Capelo Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Agentic AI Workflows]]></title>
-        <id>695d4359c1e4a2d9c18a0528</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-agentic-ai-workflows/"/>
-        <updated>2026-01-06T17:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build agentic AI workflows. We just posted a course on the freeCodeCamp.org YouTube channel that provides a comprehensive overview of agentic AI, defining agents as software entities that use LLMs to perceive environments, make decisions...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OAuth 2.0 Course for Beginners]]></title>
-        <id>695d42043e4222528514d287</id>
-        <link href="https://www.freecodecamp.org/news/oauth-2-course-for-beginners/"/>
-        <updated>2026-01-06T17:10:28.000Z</updated>
-        <summary type="html"><![CDATA[OAuth 2.0 is an industry-standard authorization framework allowing third-party apps to access user data on another service (like Google or Facebook) without sharing passwords, instead using temporary, limited-scope access tokens for delegated access,...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Music Production with FL Studio]]></title>
-        <id>695d4101b1490823e299f4ec</id>
-        <link href="https://www.freecodecamp.org/news/learn-music-production-with-fl-studio/"/>
-        <updated>2026-01-06T17:06:09.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a comprehensive music production course on the freeCodeCamp.org YouTube channel that bridges the gap between basic theory and professional execution. Miguel guides you through the entire lifecycle of a song using tools like FL Studio. ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Embeddable AI Chatbot Widget with Cloudflare Workers]]></title>
-        <id>695bde18d63e0c63c9fefea8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-embeddable-ai-chatbot-widget-with-cloudflare-workers/"/>
-        <updated>2026-01-05T15:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to add an AI-powered chatbot to your website, like Intercom or Drift, without paying high monthly fees? In this tutorial, you'll learn how to build a fully functional, embeddable AI chatbot widget using Cloudflare's serverless st...]]></summary>
-        <author>
-            <name>Mayur Vekariya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Scatterplots and Model Data in R Using ggplot2]]></title>
-        <id>695ba922d307c8d32fc522ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-scatterplots-and-model-data-in-r/"/>
-        <updated>2026-01-05T12:05:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use R as a powerful tool for data analysis, data visualization, and statistical modelling. In this guide, you’ll learn how to load real-world data into R, visualize patterns using ggplot2, build simple linear and logistic regression models, a...]]></summary>
-        <author>
-            <name>Tiffany Mojo Omondi</name>
         </author>
     </entry>
     <entry>
@@ -284,17 +294,6 @@ Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS
 What Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Scroll-Based Animations in Full view()]]></title>
-        <id>https://css-tricks.com/?p=390516</id>
-        <link href="https://css-tricks.com/creating-scroll-based-animations-in-full-view/"/>
-        <updated>2025-12-10T15:04:08.000Z</updated>
-        <summary type="html"><![CDATA[It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.
-Creating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
