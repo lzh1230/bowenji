@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-09T11:15:18.461Z</id>
+    <id>urn:2026-01-10T11:13:16.357Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T11:15:18.461Z</updated>
+    <updated>2026-01-10T11:13:16.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run an LLM Locally to Interact with Your Documents]]></title>
+        <id>69619f7198022932a4f500a0</id>
+        <link href="https://www.freecodecamp.org/news/run-an-llm-locally-to-interact-with-your-documents/"/>
+        <updated>2026-01-10T00:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Most AI tools require you to send your prompts and files to third-party servers. That’s a non-starter if your data includes private journals, research notes, or sensitive business documents (contracts, board decks, HR files, financials). The good new...]]></summary>
+        <author>
+            <name>Zoe Isabel Senón</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Local-First CLI Financial Tracker with Rust [Full Handbook]]]></title>
+        <id>696183e6f3839d7c9a8133ff</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-first-cli-financial-tracker-with-rust/"/>
+        <updated>2026-01-09T22:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Most financial apps store your sensitive data on remote servers. This requires you to trust a company with your records and rely on their service staying online. But if you build a local-first application, you can keep your data on your own machine i...]]></summary>
+        <author>
+            <name>Stephen Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an In-Memory Rate Limiter in Next.js]]></title>
+        <id>696155ea25d7491ccd74da74</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/"/>
+        <updated>2026-01-09T19:24:26.000Z</updated>
+        <summary type="html"><![CDATA[An API rate limiter is a server-side component of a web service that limits the number of API requests a client can make to an endpoint within a period of time. For example, X (formerly known as Twitter) limits the number of tweets that a specific us...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]]]></title>
+        <id>696118028d177346b8030c45</id>
+        <link href="https://www.freecodecamp.org/news/first-developer-job-at-age-38-with-lawyer-turned-software-engineer-zubin-pratap-podcast-203/"/>
+        <updated>2026-01-09T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Zubin Pratap, a software engineer and manager from Melbourne, Australia. After nearly two decades working as a corporate lawyer, he taught himself programming using freeCodeCamp.org. Within two years, he landed a job as...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build and Deploy an AI Agent with LangChain, FastAPI, and Sevalla]]></title>
         <id>6960413b864205dd1936a070</id>
@@ -76,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered Flutter App with Google Antigravity: A Hands-On Tutorial]]></title>
-        <id>695e974f4085b2f621c87405</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-flutter-app-with-google-antigravity/"/>
-        <updated>2026-01-07T17:26:39.000Z</updated>
-        <summary type="html"><![CDATA[As a Flutter developer who’s building a cloud-based ecosystem for digital media lifecycle management, I’m constantly looking for ways to speed up the transition from idea to prototype. In November 2025, Google launched antigravity, a new interactive ...]]></summary>
-        <author>
-            <name>Anna Muzykina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Systems for Web Developers: From Theory to a Live Go + React App]]></title>
-        <id>695e96b3ee29df356daaf7c0</id>
-        <link href="https://www.freecodecamp.org/news/real-time-systems-for-web-developers-from-theory-to-a-live-go-react-app/"/>
-        <updated>2026-01-07T17:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Many developers think that “real-time” is about Websockets, Live data, or instant refreshes on web application dashboards. And although these concepts are closely related to what real-time means, the systems engineering definition is a bit different....]]></summary>
-        <author>
-            <name>Emmanuel Etukudo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Future CSS: :drag (and Maybe ::dragged-image?)]]></title>
         <id>https://css-tricks.com/?p=390960</id>
         <link href="https://css-tricks.com/future-css-drag-and-maybe-dragged-image/"/>
@@ -114,26 +134,6 @@ Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Trick
         <summary type="html"><![CDATA[Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Developer’s Guide to Proxy Servers]]></title>
-        <id>695db23365ab0e59d902fa64</id>
-        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-proxy-servers/"/>
-        <updated>2026-01-07T01:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Every time you open a website, your device talks directly to another server on the internet.  Your IP address, location, and basic network details are visible to that server.  In many cases, this is fine. But there are situations where you may want m...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]]]></title>
-        <id>695d974f512957bf332d653a</id>
-        <link href="https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/"/>
-        <updated>2026-01-06T23:14:23.000Z</updated>
-        <summary type="html"><![CDATA["To understand is to perceive patterns." - Isaiah Berlin This is not a math book filled with complex formulas, theorems, and concepts that are hard to grasp. Instead, it’s a detailed guide where we’ll break complex ideas down into simpler terms. Eve...]]></summary>
-        <author>
-            <name>Tiago Capelo Monteiro</name>
         </author>
     </entry>
     <entry>
