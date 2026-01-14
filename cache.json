@@ -17,7 +17,7 @@
           "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.\nPostcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/",
           "publishedOn": "2026-01-12T14:54:32.000Z",
-          "wordCount": 4381,
+          "wordCount": 4444,
           "title": "Postcard From Web Directions Dev Summit, 2025",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/lee-meyer-web-directions-demo.mp4",
@@ -32,7 +32,7 @@
           "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.\nFuture CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
           "publishedOn": "2026-01-07T15:16:47.000Z",
-          "wordCount": 1896,
+          "wordCount": 1901,
           "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-10.03.09-AM-scaled-e1765559057362.png"
         },
@@ -115,31 +115,6 @@
           "wordCount": 1723,
           "title": "What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/css-wrapped.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391095",
-          "author": "Geoff Graham",
-          "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/toon-title-text-generator/",
-          "publishedOn": "2025-12-15T17:55:55.000Z",
-          "wordCount": 1194,
-          "title": "Toon Title Text Generator",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-10.45.29-AM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390560",
-          "author": "Temani Afif",
-          "description": "A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.\nResponsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/",
-          "publishedOn": "2025-12-15T16:19:23.000Z",
-          "wordCount": 3386,
-          "title": "Responsive List of Avatars Using Modern CSS (Part 1)",
-          "enclosure": {
-            "url": "http://css-tricks.com/wp-content/uploads/2025/11/stacked-images-responsive-10.mov",
-            "length": "0",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-9.32.20-AM.png"
         }
       ]
     },
@@ -184,7 +159,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5442,
+          "wordCount": 5439,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -199,7 +174,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4861,
+          "wordCount": 4762,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -229,7 +204,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4642,
+          "wordCount": 4646,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -259,7 +234,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4929,
+          "wordCount": 4944,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -275,6 +250,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69671ceac3577e1210128477",
+          "author": "Manish Shivanandhan",
+          "description": "Turning written blog posts into audio is a simple way to reach more people. Many users prefer listening during travel or workouts. Others enjoy having both reading and listening options.  With OpenAI’s text-to-speech models, you can build a clean ser...",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-blog-to-audio-openai/",
+          "publishedOn": "2026-01-14T04:34:50.000Z",
+          "wordCount": 2405,
+          "title": "How to Build and Deploy a Blog-to-Audio Service Using OpenAI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768359861591/69bc8279-f882-4af1-9375-5576f7043b48.png"
+        },
+        {
+          "id": "6966f05c5adda8c9bd728d3b",
+          "author": "Bala Priya C",
+          "description": "If you've worked with big data or analytics platforms, you've probably heard about ORC files. But what exactly are they, and how can you work with them in Python? In this tutorial, I'll walk you through the basics of reading, writing, and manipulatin...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-the-orc-file-format-in-python-a-guide-with-examples/",
+          "publishedOn": "2026-01-14T01:24:44.000Z",
+          "wordCount": 2247,
+          "title": "How to Work with the ORC File Format in Python – A Guide with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768353870711/56ddb07c-56b0-4c3a-92ce-b1a86ea0e6e0.png"
+        },
+        {
+          "id": "6966f02a4a96d46c5a7981c0",
+          "author": "Tapas Adhikary",
+          "description": "For years, developers have been told that coding was their primary job. They were encouraged to write clean code, learn tools, understand frameworks, and ship features faster. But in the actual world of Software Engineering, especially in product-foc...",
+          "link": "https://www.freecodecamp.org/news/why-is-debugging-hard-how-to-develop-an-effective-debugging-mindset/",
+          "publishedOn": "2026-01-14T01:23:54.000Z",
+          "wordCount": 3374,
+          "title": "Why is Debugging Hard? How to Develop an Effective Debugging Mindset",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768328774505/f27dbe5d-8a5d-4826-a641-446a537c2d5c.png"
+        },
         {
           "id": "696535ad7a48c374647910f2",
           "author": "Gabor Koos",
@@ -344,36 +349,6 @@
           "wordCount": 2249,
           "title": "How to Build and Deploy an AI Agent with LangChain, FastAPI, and Sevalla",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767915474046/728b3bd5-2dfe-45a3-a2a9-c682e4719d7d.png"
-        },
-        {
-          "id": "69603fa35fca2eedc43563d3",
-          "author": "Oyedele Tioluwani",
-          "description": "A few years back, choosing an AI model was simple. You pick the most capable one you can afford and move on. But today, that approach no longer works. Today, teams use AI across many parts of a system. Customer-facing features. Internal tooling. Rese...",
-          "link": "https://www.freecodecamp.org/news/qwen-vs-gpt-vs-gemini-which-should-you-use/",
-          "publishedOn": "2026-01-08T23:37:07.000Z",
-          "wordCount": 4602,
-          "title": "Qwen3 vs GPT-5.2 vs Gemini 3 Pro: Which Should You Use and When?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767914942568/f7c7250c-661b-46f1-9436-f7e78ae7edd5.png"
-        },
-        {
-          "id": "696023bf8de30d6097e30e99",
-          "author": "Manish Shivanandhan",
-          "description": "Shopify powers more than a million online stores around the world.  Many store features you see every day, such as discounts, bundles, and order fulfillment are built using apps. These apps are created by developers to extend Shopify and solve real p...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-shopify-app-a-beginners-guide/",
-          "publishedOn": "2026-01-08T21:38:07.000Z",
-          "wordCount": 2285,
-          "title": "How to Build Your First Shopify App: A Beginner’s Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767908229340/434160c9-891e-46d9-82fe-905d1b5ef2cb.png"
-        },
-        {
-          "id": "695fd3ec01d33dbb4b94d8a9",
-          "author": "Atuoha Anthony",
-          "description": "If you’re a developer, you’ll likely want to use AI to boost your productivity and help you save time on menial, repetitive tasks. And nearly every recruiter these days will expect you to understand how to work with AI tools effectively. But there’s ...",
-          "link": "https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/",
-          "publishedOn": "2026-01-08T15:57:32.000Z",
-          "wordCount": 5465,
-          "title": "How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767815506134/4a0a4e5a-ff09-4ebe-a62a-b29a8505edb4.png"
         }
       ]
     }
