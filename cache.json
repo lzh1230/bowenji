@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391542",
+          "author": "Daniel Schwarz",
+          "description": "The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…\nWhat’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-3/",
+          "publishedOn": "2026-01-15T15:08:58.000Z",
+          "wordCount": 2040,
+          "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi3.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391494",
           "author": "Geoff Graham",
           "description": "Super cool new CodePen feature alert! You've probably seen a bunch of \"interactive\" demos that let you changed values on the fly from a UI panel embedded directly in the demo.\nPlaying With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/playing-with-codepen-slidevars/",
           "publishedOn": "2026-01-14T14:59:07.000Z",
-          "wordCount": 1326,
+          "wordCount": 1509,
           "title": "Playing With CodePen slideVars",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/codepen-slidevars.png"
         },
@@ -105,16 +115,6 @@
           "wordCount": 1279,
           "title": "Search CSS-Tricks Raycast Extension",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/raycast-extension.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390660",
-          "author": "Temani Afif",
-          "description": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.\nResponsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
-          "publishedOn": "2025-12-17T15:21:34.000Z",
-          "wordCount": 3269,
-          "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/luZQsrO2qg-1070.png"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5438,
+          "wordCount": 5442,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -219,7 +219,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4643,
+          "wordCount": 4645,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -242,21 +242,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-measure-impact-features-tars/how-measure-impact-features-tars.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
-          "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
-          "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4949,
-          "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg"
         }
       ]
     },
@@ -265,6 +250,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69693680d6f0e208b327d21c",
+          "author": "Tiffany Mojo Omondi",
+          "description": "In this tutorial, you’ll walk through a complete data analysis project using the HR Analytics dataset by Saad Haroon on Kaggle. You’ll start by loading and cleaning the data, then explore it visually using boxplots with ggplot2. Finally, you’ll learn...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-boxplots-and-model-data-in-r/",
+          "publishedOn": "2026-01-15T18:48:32.000Z",
+          "wordCount": 2796,
+          "title": "How to Create Boxplots and Model Data in R Using ggplot2",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768418231372/f36e1cca-eed9-4620-bd7c-19788d8beafe.png"
+        },
+        {
+          "id": "69693109596ef11a775126fb",
+          "author": "Destiny Erhabor",
+          "description": "Blue-green deployments are celebrated for enabling zero-downtime releases and instant rollbacks. You deploy your new version (green) alongside the current one (blue), switch traffic over, and if something goes wrong, you switch back. Simple, right? N...",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/",
+          "publishedOn": "2026-01-15T18:25:13.000Z",
+          "wordCount": 7064,
+          "title": "How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768497873258/be1ce2a3-c95f-488e-913a-a772007a0d2a.png"
+        },
+        {
+          "id": "696929962e8dfc11a91953f7",
+          "author": "Beau Carnes",
+          "description": "We just posted a Kubernetes Operator course on the freeCodeCamp.org YouTube channel. You will learn how to extend Kubernetes by building your own custom operators and controllers from scratch. You’ll go beyond simply using Kubernetes and start treati...",
+          "link": "https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/",
+          "publishedOn": "2026-01-15T17:53:26.000Z",
+          "wordCount": 990,
+          "title": "Build Your Own Kubernetes Operators with Go and Kubebuilder",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768499578905/0f42cb04-c790-4f52-bf66-bcfe91a0ce79.jpeg"
+        },
+        {
+          "id": "69691ef945288420c3465766",
+          "author": "Daniel Adeboye",
+          "description": "Choosing a GPU for your AI workload shouldn't be complicated, but it often feels that way. You're weighing specs you don't fully understand, comparing prices that seem arbitrary, and wondering if you're about to waste thousands on GPUs you don't need...",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-the-best-gpu-for-your-ai-workloads/",
+          "publishedOn": "2026-01-15T17:08:09.000Z",
+          "wordCount": 2760,
+          "title": "How to Choose the Best GPU for Your AI Workloads",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768427017581/585da014-5cb6-45bd-b6f7-a9a8a257b288.png"
+        },
+        {
+          "id": "69690df3acc9251eeb2d4be0",
+          "author": "Beau Carnes",
+          "description": "What happens when you lock over 2,500 ambitious developers in a massive science museum for an entire weekend? We posted a documentary on the freeCodeCamp.org YouTube channel that takes you to the heart of Cal Hacks 2025, held at the iconic former Exp...",
+          "link": "https://www.freecodecamp.org/news/inside-cal-hacks-2025-36-hours-at-the-worlds-largest-collegiate-hackathon/",
+          "publishedOn": "2026-01-15T15:55:31.000Z",
+          "wordCount": 1136,
+          "title": "Inside Cal Hacks 2025 – 36 Hours at the World's Largest Collegiate Hackathon",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768512980403/e7f18729-9e9c-479b-9485-e4a4caca19f3.webp"
+        },
+        {
+          "id": "69690c920df4a0e609c1db69",
+          "author": "Beau Carnes",
+          "description": "Finding the right embedding model for your specific data can often feel like guesswork, but it doesn't have to be. While generic benchmarks provide a baseline, they rarely reflect how a model will perform on your unique datasets and niche terminology...",
+          "link": "https://www.freecodecamp.org/news/how-to-benchmark-embedding-models-on-your-own-data/",
+          "publishedOn": "2026-01-15T15:49:38.000Z",
+          "wordCount": 1084,
+          "title": "How to Benchmark Embedding Models On Your Own Data",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768492076977/d13ac808-b186-4071-86bf-be696a1fd0ae.png"
+        },
         {
           "id": "69681d224dcb07c08e435626",
           "author": "Zubair Idris Aweda",
@@ -304,66 +349,6 @@
           "wordCount": 7814,
           "title": "Why You Should Stop Managing Kafka Manually – A Guide to Kafka UI and Cruise Control",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768353949324/18ce4a43-fb21-4e9b-9285-7c4db7b7ae2e.png"
-        },
-        {
-          "id": "6967bce8f1306e271c8038cf",
-          "author": "Rajdeep Singh",
-          "description": "NixOS is a Linux distribution based on the Nix package manager and the Nix language. It’s first stable release was in 2013, and it uses a declarative, reproducible system configuration that allows atomic upgrades and rollbacks. The Nix language is a ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-nixos-linux-distro-a-tutorial-for-developers/",
-          "publishedOn": "2026-01-14T15:57:28.000Z",
-          "wordCount": 3273,
-          "title": "How to Use the NixOS Linux Distro – A Tutorial for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768330530946/99ecef9a-4654-4281-9443-2039455c121e.png"
-        },
-        {
-          "id": "69671ceac3577e1210128477",
-          "author": "Manish Shivanandhan",
-          "description": "Turning written blog posts into audio is a simple way to reach more people. Many users prefer listening during travel or workouts. Others enjoy having both reading and listening options.  With OpenAI’s text-to-speech models, you can build a clean ser...",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-blog-to-audio-openai/",
-          "publishedOn": "2026-01-14T04:34:50.000Z",
-          "wordCount": 2405,
-          "title": "How to Build and Deploy a Blog-to-Audio Service Using OpenAI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768359861591/69bc8279-f882-4af1-9375-5576f7043b48.png"
-        },
-        {
-          "id": "6966f05c5adda8c9bd728d3b",
-          "author": "Bala Priya C",
-          "description": "If you've worked with big data or analytics platforms, you've probably heard about ORC files. But what exactly are they, and how can you work with them in Python? In this tutorial, I'll walk you through the basics of reading, writing, and manipulatin...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-the-orc-file-format-in-python-a-guide-with-examples/",
-          "publishedOn": "2026-01-14T01:24:44.000Z",
-          "wordCount": 2247,
-          "title": "How to Work with the ORC File Format in Python – A Guide with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768353870711/56ddb07c-56b0-4c3a-92ce-b1a86ea0e6e0.png"
-        },
-        {
-          "id": "6966f02a4a96d46c5a7981c0",
-          "author": "Tapas Adhikary",
-          "description": "For years, developers have been told that coding was their primary job. They were encouraged to write clean code, learn tools, understand frameworks, and ship features faster. But in the actual world of Software Engineering, especially in product-foc...",
-          "link": "https://www.freecodecamp.org/news/why-is-debugging-hard-how-to-develop-an-effective-debugging-mindset/",
-          "publishedOn": "2026-01-14T01:23:54.000Z",
-          "wordCount": 3374,
-          "title": "Why is Debugging Hard? How to Develop an Effective Debugging Mindset",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768328774505/f27dbe5d-8a5d-4826-a641-446a537c2d5c.png"
-        },
-        {
-          "id": "696535ad7a48c374647910f2",
-          "author": "Gabor Koos",
-          "description": "If you're learning Go and you’re already familiar with the idea of unit testing, the main challenge is usually not why to test, but how to test in Go. Go takes a deliberately minimal approach to testing. There are no built-in assertions, no annotatio...",
-          "link": "https://www.freecodecamp.org/news/unit-testing-in-go-a-beginners-guide/",
-          "publishedOn": "2026-01-12T17:55:57.000Z",
-          "wordCount": 4077,
-          "title": "Unit Testing in Go - A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768240528981/73c9c9f6-4942-4c39-9e62-87f540fd2233.png"
-        },
-        {
-          "id": "696535106ca3442fa7874d4b",
-          "author": "Tarun Singh",
-          "description": "Have you ever updated your backend API property name but neglected to also update the frontend? I'm sure you have. When this occurs, it leads to production crashes and unhappy customers, plus you've wasted your entire week fixing the problem. To reso...",
-          "link": "https://www.freecodecamp.org/news/type-safety-without-code-generation-using-trpc-and-hono/",
-          "publishedOn": "2026-01-12T17:53:20.000Z",
-          "wordCount": 2085,
-          "title": "How to Get Type Safety Without Code Generation Using tRPC and Hono",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768240380001/79d5aa1f-438e-4a1e-a072-3166b9a36333.png"
         }
       ]
     }

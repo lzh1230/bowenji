@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T11:15:59.371Z</id>
+    <id>urn:2026-01-16T11:15:24.244Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T11:15:59.371Z</updated>
+    <updated>2026-01-16T11:15:24.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Boxplots and Model Data in R Using ggplot2]]></title>
+        <id>69693680d6f0e208b327d21c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-boxplots-and-model-data-in-r/"/>
+        <updated>2026-01-15T18:48:32.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll walk through a complete data analysis project using the HR Analytics dataset by Saad Haroon on Kaggle. You’ll start by loading and cleaning the data, then explore it visually using boxplots with ggplot2. Finally, you’ll learn...]]></summary>
+        <author>
+            <name>Tiffany Mojo Omondi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide]]></title>
+        <id>69693109596ef11a775126fb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/"/>
+        <updated>2026-01-15T18:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Blue-green deployments are celebrated for enabling zero-downtime releases and instant rollbacks. You deploy your new version (green) alongside the current one (blue), switch traffic over, and if something goes wrong, you switch back. Simple, right? N...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Kubernetes Operators with Go and Kubebuilder]]></title>
+        <id>696929962e8dfc11a91953f7</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/"/>
+        <updated>2026-01-15T17:53:26.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a Kubernetes Operator course on the freeCodeCamp.org YouTube channel. You will learn how to extend Kubernetes by building your own custom operators and controllers from scratch. You’ll go beyond simply using Kubernetes and start treati...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Best GPU for Your AI Workloads]]></title>
+        <id>69691ef945288420c3465766</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-the-best-gpu-for-your-ai-workloads/"/>
+        <updated>2026-01-15T17:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Choosing a GPU for your AI workload shouldn't be complicated, but it often feels that way. You're weighing specs you don't fully understand, comparing prices that seem arbitrary, and wondering if you're about to waste thousands on GPUs you don't need...]]></summary>
+        <author>
+            <name>Daniel Adeboye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Cal Hacks 2025 – 36 Hours at the World's Largest Collegiate Hackathon]]></title>
+        <id>69690df3acc9251eeb2d4be0</id>
+        <link href="https://www.freecodecamp.org/news/inside-cal-hacks-2025-36-hours-at-the-worlds-largest-collegiate-hackathon/"/>
+        <updated>2026-01-15T15:55:31.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you lock over 2,500 ambitious developers in a massive science museum for an entire weekend? We posted a documentary on the freeCodeCamp.org YouTube channel that takes you to the heart of Cal Hacks 2025, held at the iconic former Exp...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Benchmark Embedding Models On Your Own Data]]></title>
+        <id>69690c920df4a0e609c1db69</id>
+        <link href="https://www.freecodecamp.org/news/how-to-benchmark-embedding-models-on-your-own-data/"/>
+        <updated>2026-01-15T15:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right embedding model for your specific data can often feel like guesswork, but it doesn't have to be. While generic benchmarks provide a baseline, they rarely reflect how a model will perform on your unique datasets and niche terminology...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More]]></title>
+        <id>https://css-tricks.com/?p=391542</id>
+        <link href="https://css-tricks.com/whats-important-3/"/>
+        <updated>2026-01-15T15:08:58.000Z</updated>
+        <summary type="html"><![CDATA[The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…
+What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Relational Database Constraints Work and Why They're Important]]></title>
         <id>69681d224dcb07c08e435626</id>
@@ -46,16 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the NixOS Linux Distro – A Tutorial for Developers]]></title>
-        <id>6967bce8f1306e271c8038cf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-nixos-linux-distro-a-tutorial-for-developers/"/>
-        <updated>2026-01-14T15:57:28.000Z</updated>
-        <summary type="html"><![CDATA[NixOS is a Linux distribution based on the Nix package manager and the Nix language. It’s first stable release was in 2013, and it uses a declarative, reproducible system configuration that allows atomic upgrades and rollbacks. The Nix language is a ...]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Playing With CodePen slideVars]]></title>
         <id>https://css-tricks.com/?p=391494</id>
         <link href="https://css-tricks.com/playing-with-codepen-slidevars/"/>
@@ -74,56 +135,6 @@ Playing With CodePen slideVars originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Blog-to-Audio Service Using OpenAI]]></title>
-        <id>69671ceac3577e1210128477</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-blog-to-audio-openai/"/>
-        <updated>2026-01-14T04:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Turning written blog posts into audio is a simple way to reach more people. Many users prefer listening during travel or workouts. Others enjoy having both reading and listening options.  With OpenAI’s text-to-speech models, you can build a clean ser...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with the ORC File Format in Python – A Guide with Examples]]></title>
-        <id>6966f05c5adda8c9bd728d3b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-the-orc-file-format-in-python-a-guide-with-examples/"/>
-        <updated>2026-01-14T01:24:44.000Z</updated>
-        <summary type="html"><![CDATA[If you've worked with big data or analytics platforms, you've probably heard about ORC files. But what exactly are they, and how can you work with them in Python? In this tutorial, I'll walk you through the basics of reading, writing, and manipulatin...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is Debugging Hard? How to Develop an Effective Debugging Mindset]]></title>
-        <id>6966f02a4a96d46c5a7981c0</id>
-        <link href="https://www.freecodecamp.org/news/why-is-debugging-hard-how-to-develop-an-effective-debugging-mindset/"/>
-        <updated>2026-01-14T01:23:54.000Z</updated>
-        <summary type="html"><![CDATA[For years, developers have been told that coding was their primary job. They were encouraged to write clean code, learn tools, understand frameworks, and ship features faster. But in the actual world of Software Engineering, especially in product-foc...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit Testing in Go - A Beginner's Guide]]></title>
-        <id>696535ad7a48c374647910f2</id>
-        <link href="https://www.freecodecamp.org/news/unit-testing-in-go-a-beginners-guide/"/>
-        <updated>2026-01-12T17:55:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning Go and you’re already familiar with the idea of unit testing, the main challenge is usually not why to test, but how to test in Go. Go takes a deliberately minimal approach to testing. There are no built-in assertions, no annotatio...]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Type Safety Without Code Generation Using tRPC and Hono]]></title>
-        <id>696535106ca3442fa7874d4b</id>
-        <link href="https://www.freecodecamp.org/news/type-safety-without-code-generation-using-trpc-and-hono/"/>
-        <updated>2026-01-12T17:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever updated your backend API property name but neglected to also update the frontend? I'm sure you have. When this occurs, it leads to production crashes and unhappy customers, plus you've wasted your entire week fixing the problem. To reso...]]></summary>
-        <author>
-            <name>Tarun Singh</name>
         </author>
     </entry>
     <entry>
@@ -271,27 +282,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
 Search CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=390660</id>
-        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/"/>
-        <updated>2025-12-17T15:21:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.
-Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Animations Part 7: Recreating Toon Text With CSS And SVG]]></title>
-        <id>https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/</id>
-        <link href="https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/"/>
-        <updated>2025-12-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
