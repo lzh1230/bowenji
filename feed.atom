@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T11:19:56.546Z</id>
+    <id>urn:2026-01-22T11:19:16.313Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T11:19:56.546Z</updated>
+    <updated>2026-01-22T11:19:16.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Your Favorite Tech Blogs into a Personal Podcast]]></title>
+        <id>6971493162f064cd7502688f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-your-favorite-blogs-into-personal-podcast/"/>
+        <updated>2026-01-21T21:46:25.000Z</updated>
+        <summary type="html"><![CDATA[These days it feels almost impossible to keep up with tech news. I step away for three days, and suddenly there is a new AI model, a new framework, and a new tool everyone says I must learn. Reading everything no longer scales, but I still want to st...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Dynamic Programming Through Dynamic Visuals]]></title>
+        <id>69711a5a740ddc945562fb4d</id>
+        <link href="https://www.freecodecamp.org/news/learn-dynamic-programming-through-dynamic-visuals/"/>
+        <updated>2026-01-21T18:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Dynamic programming (DP) is often considered one of the most intimidating topics in coding interviews. It has a reputation for being abstract and counterintuitive, but it doesn't have to be. We just published a comprehensive Dynamic Programming cours...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a The Backrooms Game in Unreal Engine 5]]></title>
+        <id>69711728bb0d008e8a022fe5</id>
+        <link href="https://www.freecodecamp.org/news/build-a-the-backrooms-game-in-unreal-engine-5/"/>
+        <updated>2026-01-21T18:12:56.000Z</updated>
+        <summary type="html"><![CDATA[The "liminal space" aesthetic of the Backrooms has become a staple of modern indie horror. If you’ve ever wanted to create your own unsettling, claustrophobic experience, the latest course on the freeCodeCamp.org YouTube channel is your perfect start...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Learned The First Rule of ARIA the Hard Way]]></title>
+        <id>https://css-tricks.com/?p=391390</id>
+        <link href="https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/"/>
+        <updated>2026-01-21T17:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.
+I Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Hashim Quraishi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Execution Context Works in JavaScript – A Handbook for Devs]]></title>
         <id>696fd4c6078e49955b0f38de</id>
@@ -105,36 +146,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[Blue-green deployments are celebrated for enabling zero-downtime releases and instant rollbacks. You deploy your new version (green) alongside the current one (blue), switch traffic over, and if something goes wrong, you switch back. Simple, right? N...]]></summary>
         <author>
             <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Kubernetes Operators with Go and Kubebuilder]]></title>
-        <id>696929962e8dfc11a91953f7</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/"/>
-        <updated>2026-01-15T17:53:26.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a Kubernetes Operator course on the freeCodeCamp.org YouTube channel. You will learn how to extend Kubernetes by building your own custom operators and controllers from scratch. You’ll go beyond simply using Kubernetes and start treati...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose the Best GPU for Your AI Workloads]]></title>
-        <id>69691ef945288420c3465766</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-the-best-gpu-for-your-ai-workloads/"/>
-        <updated>2026-01-15T17:08:09.000Z</updated>
-        <summary type="html"><![CDATA[Choosing a GPU for your AI workload shouldn't be complicated, but it often feels that way. You're weighing specs you don't fully understand, comparing prices that seem arbitrary, and wondering if you're about to waste thousands on GPUs you don't need...]]></summary>
-        <author>
-            <name>Daniel Adeboye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside UC Berkeley's Cal Hacks – A Documentary About the World's Biggest Collegiate Hackathon]]></title>
-        <id>69690df3acc9251eeb2d4be0</id>
-        <link href="https://www.freecodecamp.org/news/inside-cal-hacks-2025-36-hours-at-the-worlds-largest-collegiate-hackathon/"/>
-        <updated>2026-01-15T15:55:31.000Z</updated>
-        <summary type="html"><![CDATA[What happens when you lock over 2,500 ambitious developers in a massive science museum for an entire weekend? We posted a documentary on the freeCodeCamp.org YouTube channel that takes you to the heart of Cal Hacks 2025, held at the iconic former Exp...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -250,27 +261,6 @@ What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the 
         <summary type="html"><![CDATA[Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You (2025 Edition)]]></title>
-        <id>https://css-tricks.com/?p=391203</id>
-        <link href="https://css-tricks.com/thank-you-2025-edition/"/>
-        <updated>2025-12-23T15:52:53.000Z</updated>
-        <summary type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.
-Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giving Users A Voice Through Virtual Personas]]></title>
-        <id>https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/</id>
-        <link href="https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/"/>
-        <updated>2025-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
