@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-26T11:17:29.601Z</id>
+    <id>urn:2026-01-27T11:19:11.659Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-26T11:17:29.601Z</updated>
+    <updated>2026-01-27T11:19:11.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Chat with Your PDF Using Retrieval Augmented Generation]]></title>
+        <id>697822ad5a8ba7b3a0cfc888</id>
+        <link href="https://www.freecodecamp.org/news/how-to-chat-with-your-pdf-using-retrieval-augmented-generation/"/>
+        <updated>2026-01-27T02:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are good at answering questions, but they have one big limitation: they don’t know what is inside your private documents.  If you upload a PDF like a company policy, research paper, or contract, the model cannot magically read i...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There is No Need to Trap Focus on a Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=388430</id>
+        <link href="https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/"/>
+        <updated>2026-01-26T15:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).
+There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Singleton Design Pattern in Flutter: Lazy, Eager, and Factory Variations]]></title>
         <id>69740b7bc3e68b8de44a179f</id>
@@ -125,16 +146,6 @@ Open Props @custom-media Recipes originally published on CSS-Tricks, which is pa
         <link href="https://www.freecodecamp.org/news/learn-dynamic-programming-through-dynamic-visuals/"/>
         <updated>2026-01-21T18:26:34.000Z</updated>
         <summary type="html"><![CDATA[Dynamic programming (DP) is often considered one of the most intimidating topics in coding interviews. It has a reputation for being abstract and counterintuitive, but it doesn't have to be. We just published a comprehensive Dynamic Programming cours...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a The Backrooms Game in Unreal Engine 5]]></title>
-        <id>69711728bb0d008e8a022fe5</id>
-        <link href="https://www.freecodecamp.org/news/build-a-the-backrooms-game-in-unreal-engine-5/"/>
-        <updated>2026-01-21T18:12:56.000Z</updated>
-        <summary type="html"><![CDATA[The "liminal space" aesthetic of the Backrooms has become a staple of modern indie horror. If you’ve ever wanted to create your own unsettling, claustrophobic experience, the latest course on the freeCodeCamp.org YouTube channel is your perfect start...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
