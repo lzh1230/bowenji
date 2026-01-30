@@ -14,11 +14,11 @@
         {
           "id": "https://css-tricks.com/?p=391705",
           "author": "Daniel Schwarz",
-          "description": "Chrome 144 recently shipped ::search-text, which is now one of several highlight-related pseudo-elements. This one selects find-in-page text, which is the text that gets highlighted when you do a Ctrl/Command + F-type search for something on a page and matches are found.\nHow to Style the New ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.\nStyling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
           "publishedOn": "2026-01-28T15:08:04.000Z",
-          "wordCount": 2137,
-          "title": "How to Style the New ::search-text and Other Highlight-y Pseudo-Elements",
+          "wordCount": 2103,
+          "title": "Styling ::search-text and Other Highlight-y Pseudo-Elements",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-21-at-10.28.07-AM.mov",
             "length": "6902193",
@@ -32,7 +32,7 @@
           "description": "Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.\nReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/relicss/",
           "publishedOn": "2026-01-28T13:25:00.000Z",
-          "wordCount": 1277,
+          "wordCount": 1308,
           "title": "ReliCSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/relicss-audit.webp"
         },
@@ -42,7 +42,7 @@
           "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
           "publishedOn": "2026-01-26T15:02:27.000Z",
-          "wordCount": 1953,
+          "wordCount": 2449,
           "title": "There is No Need to Trap Focus on a Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
         },
@@ -52,7 +52,7 @@
           "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
           "publishedOn": "2026-01-23T14:39:56.000Z",
-          "wordCount": 3090,
+          "wordCount": 3108,
           "title": "Responsive Hexagon Grid Using Modern CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/hexagon-grid.png"
         },
@@ -140,16 +140,6 @@
           "wordCount": 1935,
           "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-10.03.09-AM-scaled-e1765559057362.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391298",
-          "author": "Daniel Schwarz",
-          "description": "2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!\nWhat’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-2/",
-          "publishedOn": "2025-12-31T16:18:23.000Z",
-          "wordCount": 2063,
-          "title": "What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/wi-2.png"
         }
       ]
     },
@@ -164,7 +154,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5812,
+          "wordCount": 5817,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -194,7 +184,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5106,
+          "wordCount": 5104,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -209,7 +199,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5372,
+          "wordCount": 5366,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -254,7 +244,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5447,
+          "wordCount": 5438,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -262,21 +252,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
-          "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
-          "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4756,
-          "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png"
         }
       ]
     },
@@ -285,6 +260,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "697bf73e79322b4a93ac0fb8",
+          "author": "Onyinyechi Nwaucha",
+          "description": "Prioritization in product management is hardly about what metric takes precedence over the other. Of all the roles a product manager plays, one of the most difficult is deciding what to work on next. Why? Because everything feels urgent. Engineers wa...",
+          "link": "https://www.freecodecamp.org/news/how-to-prioritize-as-a-product-manager/",
+          "publishedOn": "2026-01-30T00:11:42.000Z",
+          "wordCount": 3874,
+          "title": "How to Prioritize as a Product Manager – Product Prioritization Frameworks Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769731875495/c2d3feca-a09e-454c-93de-bc00607ac517.png"
+        },
+        {
+          "id": "697bd350c5c536590f03089b",
+          "author": "Beau Carnes",
+          "description": "Relational databases are used in many different types of software. We just posted a course on the freeCodeCamp.org YouTube channel that will help you learn relational database design from the ground up. This course covers SQL fundamentals, entity-rel...",
+          "link": "https://www.freecodecamp.org/news/learn-relational-database-design-1/",
+          "publishedOn": "2026-01-29T21:38:24.000Z",
+          "wordCount": 1081,
+          "title": "Learn Relational Database Design",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769722691702/9d54eabe-0c4c-43d9-b584-a34c61fbe43d.jpeg"
+        },
         {
           "id": "697a3bb24b19a21e89e9cf78",
           "author": "Bala Priya C",
@@ -301,7 +296,7 @@
           "description": "Bluetooth Low Energy advertising has always been one of those things developers “just use” until it breaks in subtle, painful ways. You set a name, throw in a UUID, maybe add some manufacturer data, and hope everything fits. For years, the unspoken r...",
           "link": "https://www.freecodecamp.org/news/how-does-extended-bluetooth-advertising-work-in-aosp/",
           "publishedOn": "2026-01-27T23:04:04.000Z",
-          "wordCount": 9763,
+          "wordCount": 9764,
           "title": "How Does Extended Bluetooth Advertising Work in AOSP?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769554733429/9f92a37a-f080-4735-8280-b6ab4e82ac95.png"
         },
@@ -364,26 +359,6 @@
           "wordCount": 3178,
           "title": "How to Use the Singleton Design Pattern in Flutter: Lazy, Eager, and Factory Variations",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769212761076/11d41d2a-8efa-4ddb-9ee2-218f5be00d9f.png"
-        },
-        {
-          "id": "6974017e2a79920d2cc4e0c0",
-          "author": "Wisamul Haque",
-          "description": "Every day, we learn something new about generative AI applications – how they behave, where they shine, and where they fall short. As Large Language Models (LLMs) rapidly evolve, one thing becomes increasingly clear: selecting the right model for you...",
-          "link": "https://www.freecodecamp.org/news/how-to-evaluate-and-select-the-right-llm-for-your-genai-application/",
-          "publishedOn": "2026-01-23T23:17:18.000Z",
-          "wordCount": 4735,
-          "title": "How to Evaluate and Select the Right LLM for Your GenAI Application",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769210220168/1d3f87cc-80c2-4617-9cbb-f24cf3f6b55c.png"
-        },
-        {
-          "id": "6973f8cd15349392f17d3760",
-          "author": "Grant Riordan",
-          "description": "Have you ever needed a method to return different types depending on the situation? Perhaps a payment processor that returns different payment types, an order that can be in various states with different data, or better, a file loader that handles mu...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-type-safe-unions-in-c-with-oneof/",
-          "publishedOn": "2026-01-23T22:40:13.000Z",
-          "wordCount": 3296,
-          "title": "How to Implement Type Safe Unions in C# With OneOf",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769193036631/70de89f6-047b-4894-9685-2c65c05b3620.jpeg"
         }
       ]
     }
