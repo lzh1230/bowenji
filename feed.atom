@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T11:30:09.088Z</id>
+    <id>urn:2026-02-04T11:29:27.713Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T11:30:09.088Z</updated>
+    <updated>2026-02-04T11:29:27.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
+        <id>https://css-tricks.com/?p=390379</id>
+        <link href="https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/"/>
+        <updated>2026-02-03T15:54:59.000Z</updated>
+        <summary type="html"><![CDATA[You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.
+No Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combobox vs. Multiselect vs. Listbox: How To Choose The Right One]]></title>
+        <id>https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/</id>
+        <link href="https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/"/>
+        <updated>2026-02-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Debug React State Updates Like a Pro (Without Polluting Production)]]></title>
         <id>698115a622cd39b64c5fac49</id>
