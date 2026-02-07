@@ -17,7 +17,7 @@
           "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
           "publishedOn": "2026-02-05T15:13:14.000Z",
-          "wordCount": 1627,
+          "wordCount": 1684,
           "title": "CSS Bar Charts Using Modern Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
         },
@@ -189,7 +189,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4509,
+          "wordCount": 4504,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -219,7 +219,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4596,
+          "wordCount": 4599,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -234,7 +234,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4653,
+          "wordCount": 4658,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -249,7 +249,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5813,
+          "wordCount": 5812,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -264,7 +264,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6451,
+          "wordCount": 6459,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -279,7 +279,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5112,
+          "wordCount": 5104,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -294,7 +294,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5358,
+          "wordCount": 5371,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -317,21 +317,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
-          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
-          "description": "[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.",
-          "link": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
-          "publishedOn": "2026-01-08T08:00:00.000Z",
-          "wordCount": 3830,
-          "title": "Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/penpot-experimenting-mcp-servers-ai-powered-design-workflows/penpot-experimenting-mcp-servers-ai-powered-design-workflows.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/penpot-experimenting-mcp-servers-ai-powered-design-workflows/penpot-experimenting-mcp-servers-ai-powered-design-workflows.jpg"
         }
       ]
     },
@@ -341,12 +326,22 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "698614754058fffacf721cc8",
+          "author": "Abdul Talha",
+          "description": "Hiring the right candidate starts with one time-consuming task: screening résumés. If you’ve ever posted a job opening, you know the pain of hundreds of applications in your inbox, leaving you to spend hours reviewing each résumé manually. In this ar...",
+          "link": "https://www.freecodecamp.org/news/python-resume-screening-system/",
+          "publishedOn": "2026-02-06T16:19:01.000Z",
+          "wordCount": 2389,
+          "title": "How to Build a Résumé Screening System Using Python and Multiprocessing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331777028/1ac80e66-cf22-4160-8812-ea917384cd3f.png"
+        },
+        {
           "id": "69851e61087459735f840552",
           "author": "Manish Shivanandhan",
-          "description": "A step-by-step guide to containerising a FastAPI application with Docker and deploying it to the cloud for consistent, production-ready delivery. Modern applications rarely live in isolation. They move between laptops, staging servers, and production...",
+          "description": "Modern applications rarely live in isolation. They move between laptops, staging servers, and production environments. Each environment has its own quirks, missing libraries, or slightly different configurations. This is where many “works on my machi...",
           "link": "https://www.freecodecamp.org/news/how-to-dockerize-your-application-and-deploy-it/",
           "publishedOn": "2026-02-05T22:49:05.000Z",
-          "wordCount": 2177,
+          "wordCount": 2158,
           "title": "How to Dockerize Your Application and Deploy It",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331734345/d53fdc31-231b-4194-96e2-efcec036cfb2.png"
         },
@@ -429,16 +424,6 @@
           "wordCount": 2494,
           "title": "How to Build and Deploy a LogAnalyzer Agent using LangChain",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770224778776/7d5c3a27-adc2-4cde-94d5-4ac7db892673.png"
-        },
-        {
-          "id": "69837b8b9eb9655b2349db75",
-          "author": "Syeda Maham Fahim",
-          "description": "Have you ever noticed that your network connection sometimes feels fast and then suddenly slow, even when nothing obvious has changed? A request that takes 20 ms at one moment can take 80 ms the next, and sometimes it does not return at all. Terms li...",
-          "link": "https://www.freecodecamp.org/news/how-tcp-turns-round-trip-time-and-jitter-into-packet-loss/",
-          "publishedOn": "2026-02-04T17:02:03.000Z",
-          "wordCount": 3086,
-          "title": "How TCP Turns Round Trip Time and Jitter into Packet Loss",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770224386950/ceeafb62-ae8c-4c70-8239-91ba835b85b7.png"
         }
       ]
     }
