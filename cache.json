@@ -17,7 +17,7 @@
           "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
           "publishedOn": "2026-02-09T17:34:56.000Z",
-          "wordCount": 3717,
+          "wordCount": 3837,
           "title": "Trying to Make the Perfect Pie Chart in CSS",
           "enclosure": {
             "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
@@ -32,7 +32,7 @@
           "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
           "publishedOn": "2026-02-05T15:13:14.000Z",
-          "wordCount": 1684,
+          "wordCount": 1708,
           "title": "CSS Bar Charts Using Modern Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
         },
@@ -234,7 +234,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4671,
+          "wordCount": 4655,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -249,7 +249,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5809,
+          "wordCount": 5813,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -264,7 +264,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6447,
+          "wordCount": 6452,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -279,7 +279,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5110,
+          "wordCount": 5115,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -294,7 +294,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5360,
+          "wordCount": 5363,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -302,21 +302,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
-          "publishedOn": "2026-01-12T10:00:00.000Z",
-          "wordCount": 4382,
-          "title": "UX And Product Designer’s Career Paths In 2026",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg"
         }
       ]
     },
@@ -325,6 +310,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "698bb499f3de8b702a26aec1",
+          "author": "Aiyedogbon Abraham",
+          "description": "Testing is one of those things that every developer knows they should do, but many put off until problems start appearing in production. If you’re building React applications with Vite, there's a testing framework that fits so naturally into your wor...",
+          "link": "https://www.freecodecamp.org/news/how-to-test-react-applications-with-vitest/",
+          "publishedOn": "2026-02-10T22:43:37.000Z",
+          "wordCount": 4102,
+          "title": "How to Test React Applications with Vitest",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770763375195/82544dec-aec2-4de9-b7f8-f90349394e81.png"
+        },
+        {
+          "id": "698b4fff1eac20c7da3bd7ba",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass-2026-update/",
+          "publishedOn": "2026-02-10T15:34:23.000Z",
+          "wordCount": 3353,
+          "title": "Prepare for the Kubernetes Administrator Certification and Pass [2026 update]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770737611970/40c85fc5-30e0-450c-8473-b05124831718.jpeg"
+        },
         {
           "id": "6989f75b7982b0d48a3c2c48",
           "author": "Bala Priya C",
@@ -404,26 +409,6 @@
           "wordCount": 1087,
           "title": "Harvard CS50 2026 – Free Computer Science University Course",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770311427284/e63d5d11-e815-41e2-88c5-50c9ac969098.jpeg"
-        },
-        {
-          "id": "6984ca1c0d3cc85f508db81e",
-          "author": "Beau Carnes",
-          "description": "The AI landscape has shifted in 2026 from passive chatbots to proactive autonomous agents, with OpenClaw leading the charge as the most viral open-source project of the year. We just posted a comprehensive introduction to OpenClaw on the freeCodeCamp...",
-          "link": "https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/",
-          "publishedOn": "2026-02-05T16:49:32.000Z",
-          "wordCount": 1092,
-          "title": "OpenClaw Full Tutorial for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770310153117/f090efe2-ee69-44b6-890d-9158c914c389.jpeg"
-        },
-        {
-          "id": "6983ae630a7fef9ac2d90313",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Ah, Bluetooth. The technology we all love to hate. It's like that one friend who's always just about to connect, but then... doesn't. For years, Android developers have been locked in a dramatic, often tragic, romance with Bluetooth. We've wrestled w...",
-          "link": "https://www.freecodecamp.org/news/how-aosp-16-bluetooth-scanner-works-the-ultimate-guide/",
-          "publishedOn": "2026-02-04T20:38:59.000Z",
-          "wordCount": 13955,
-          "title": "How AOSP 16 Bluetooth Scanner Works: The Ultimate Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770234863523/44a1690e-ab8a-4f6b-a12b-2c2636947d8c.png"
         }
       ]
     }
