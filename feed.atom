@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-17T11:35:29.224Z</id>
+    <id>urn:2026-02-18T11:34:25.188Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T11:35:29.224Z</updated>
+    <updated>2026-02-18T11:34:25.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained]]></title>
+        <id>6994e01b44a48dd86fdf0816</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/"/>
+        <updated>2026-02-17T21:39:39.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer working with containers, chances are Docker is your go-to tool. But did you know that there's a whole ecosystem of container runtimes out there? Some are lighter, some are more secure, and some are specifically built for Kuberne...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement the Observer Pattern in Python]]></title>
+        <id>6994c4a494993ba9dd1ad6ad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-the-observer-pattern-in-python/"/>
+        <updated>2026-02-17T19:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how YouTube notifies you when your favorite channel uploads a new video? Or how your email client alerts you when new messages arrive? These are perfect examples of the observer pattern in action. The observer pattern is a desi...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Django REST APIs for Performance: Profiling, Caching, and Scaling.]]></title>
+        <id>6994b1d13e0696149c7c229c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-django-rest-apis-for-performance/"/>
+        <updated>2026-02-17T18:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Performance problems in APIs rarely start as performance problems. They usually start as small design decisions that worked perfectly when the application had ten users, ten records, or a single developer testing locally. Over time, as traffic increa...]]></summary>
+        <author>
+            <name>Mari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use AlphaEarth for Similarity Search in Google Earth Engine]]></title>
+        <id>6994b10f99525c1b1a51745d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-alphaearth-for-similarity-search-in-google-earth-engine/"/>
+        <updated>2026-02-17T18:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Embeddings have transformed how we search text, images, and code. Instead of matching keywords, you compare vectors, which are numerical representations that capture meaning. Similar items end up close together, making it easy to find matches. The sa...]]></summary>
+        <author>
+            <name>Pablo Rios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spiral Scrollytelling in CSS With sibling-index()]]></title>
+        <id>https://css-tricks.com/?p=391909</id>
+        <link href="https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/"/>
+        <updated>2026-02-17T15:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.
+Spiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interop 2026]]></title>
+        <id>https://css-tricks.com/?p=392321</id>
+        <link href="https://css-tricks.com/interop-2026/"/>
+        <updated>2026-02-17T14:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!
+Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Take Machine Learning Beyond Python Notebooks with These Helpful Tools]]></title>
         <id>69939ae54fe0950e7f9c9c75</id>
@@ -87,26 +149,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Custom PDF Text Extractor with Node.js and TypeScript]]></title>
-        <id>698e11a1f5e2fbcb44cccc0a</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-pdf-text-extractor-with-nodejs-and-typescript/"/>
-        <updated>2026-02-12T17:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Extracting text from PDFs sounds simple until you try to do it. And it can be even more challenging for JavaScript developers, with various libraries to choose from and so on. I encountered this problem while I was building my SaaS app. I scoured thr...]]></summary>
-        <author>
-            <name>Chidera Humphrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Modern React Data Fetching Handbook: Suspense, use(), and ErrorBoundary Explained]]></title>
-        <id>698def824dcd2f8caf2d36ef</id>
-        <link href="https://www.freecodecamp.org/news/the-modern-react-data-fetching-handbook-suspense-use-and-errorboundary-explained/"/>
-        <updated>2026-02-12T15:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Most React developers don’t break the data fetching process all at once. It usually degrades gradually, slowly. Traditionally, you may have used a useEffect here, a loading flag there, and an error state along with it to tackle data fetching. Moving ...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making a Responsive Pyramidal Grid With Modern CSS]]></title>
         <id>https://css-tricks.com/?p=391879</id>
         <link href="https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/"/>
@@ -115,26 +157,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
 Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Production-Ready Pipeline with Docker, CI/CD & Hostinger]]></title>
-        <id>698ddec5e10c0cedef5bde49</id>
-        <link href="https://www.freecodecamp.org/news/build-a-production-ready-pipeline-with-docker-cicd-and-hostinger/"/>
-        <updated>2026-02-12T14:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn to take a full-stack React, Go, and MongoDB application from local development to a fully containerized production environment. We just posted a full course on the freeCodeCamp.org YouTube channel that will help you master Docker orchestration,...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real-Time Public Speaking and Presentation Coach]]></title>
-        <id>698cfe9129ecd244747b71f1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-public-speaking-and-presentation-coach/"/>
-        <updated>2026-02-11T22:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Nowadays, being able to present an idea, project, or achievement is a must-have skill. The ability to showcase and talk about your work can determine whether you’re getting that degree, funding, or approval. But while effective communication is impor...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
         </author>
     </entry>
     <entry>
@@ -328,17 +350,6 @@ Open Props @custom-media Recipes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Learned The First Rule of ARIA the Hard Way]]></title>
-        <id>https://css-tricks.com/?p=391390</id>
-        <link href="https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/"/>
-        <updated>2026-01-21T17:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.
-I Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Hashim Quraishi</name>
         </author>
     </entry>
     <entry>
