@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-18T11:34:25.188Z</id>
+    <id>urn:2026-02-19T11:34:37.124Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T11:34:25.188Z</updated>
+    <updated>2026-02-19T11:34:37.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Develop AI Agents Using LangGraph: A Practical Guide]]></title>
+        <id>69965d1013f3e8d4dfe2a929</id>
+        <link href="https://www.freecodecamp.org/news/how-to-develop-ai-agents-using-langgraph-a-practical-guide/"/>
+        <updated>2026-02-19T00:45:04.000Z</updated>
+        <summary type="html"><![CDATA[AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to use it to answer your questions. In this tutorial...]]></summary>
+        <author>
+            <name>Manoj Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product-Led Research: A Practical Guide for R&D Leaders [Full Book]]]></title>
+        <id>69963f99d35b661838993be2</id>
+        <link href="https://www.freecodecamp.org/news/product-led-research-a-practical-guide-for-randd-leaders-full-book/"/>
+        <updated>2026-02-18T22:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Your team needs to solve a problem, and there's no clear solution path. Multiple approaches might work, but you're not sure which. Success isn't guaranteed. This is Research, not Development. And if you manage it like Development, things aren't going...]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Elevate Your Database Game: Supercharging Query Performance with Postgres FDW]]></title>
+        <id>69963f00d35b661838993bd0</id>
+        <link href="https://www.freecodecamp.org/news/fdw-pushdown/"/>
+        <updated>2026-02-18T22:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Foreign data wrappers (FDWs) make remote Postgres tables feel local. That convenience is exactly why FDW performance surprises are so common. A query that looks like a normal join can execute like a distributed system: rows move across the network, r...]]></summary>
+        <author>
+            <name>Hamdaan Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distinguishing “Components” and “Utilities” in Tailwind]]></title>
+        <id>https://css-tricks.com/?p=390460</id>
+        <link href="https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/"/>
+        <updated>2026-02-18T16:21:41.000Z</updated>
+        <summary type="html"><![CDATA[The distinction between "components" and "utilities" seems clear at first glance, but gets a little blurred when working with them in Tailwind.
+Distinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Networking Fundamentals]]></title>
+        <id>6995e32376926e7d4ed2c700</id>
+        <link href="https://www.freecodecamp.org/news/computer-networking-fundamentals/"/>
+        <updated>2026-02-18T16:04:51.000Z</updated>
+        <summary type="html"><![CDATA[How does the Internet really work? For many technical jobs it is important to understand computer networking. We just posted a massive 12-hour course that will give you a deep dive into computer networking. Here are the sections covered in this compr...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Streak System: The UX And Psychology Of Streaks]]></title>
+        <id>https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/</id>
+        <link href="https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/"/>
+        <updated>2026-02-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained]]></title>
         <id>6994e01b44a48dd86fdf0816</id>
@@ -88,26 +149,6 @@ Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOce
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Chess "Italian Game" Handbook: Traps for White]]></title>
-        <id>69932b89881a983a8060252f</id>
-        <link href="https://www.freecodecamp.org/news/the-chess-italian-game-handbook-traps-for-white/"/>
-        <updated>2026-02-16T14:36:57.000Z</updated>
-        <summary type="html"><![CDATA[A chess game is usually divided into three phases: the opening, middlegame, and endgame. In the opening phase, each player develops and sets up their pieces. In the middlegame, they plan attacks, execute different tactics and strategies to gain an ad...]]></summary>
-        <author>
-            <name>Ihechikara Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook]]]></title>
-        <id>698f4ea5c4c4900d2483651c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/"/>
-        <updated>2026-02-13T16:17:41.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever wondered how chat applications like Slack, Discord, or WhatsApp work behind the scenes, this tutorial will show you. You'll build a real-time chat server from scratch using Go, learning the fundamental concepts that power modern commun...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More]]></title>
         <id>https://css-tricks.com/?p=392302</id>
         <link href="https://css-tricks.com/whats-important-5/"/>
@@ -126,26 +167,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
         <summary type="html"><![CDATA[Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kat Homan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]]]></title>
-        <id>698f1256be3738fa1ac06e20</id>
-        <link href="https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/"/>
-        <updated>2026-02-13T12:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Robby Russell. Robby created the open-source project Oh My ZSH. Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a d...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Escape Analysis in Go – Explained with Example Code]]></title>
-        <id>698e1c7090ca92017618cb24</id>
-        <link href="https://www.freecodecamp.org/news/understanding-escape-analysis-in-go/"/>
-        <updated>2026-02-12T18:31:12.000Z</updated>
-        <summary type="html"><![CDATA[In most languages, the stack and heap are two ways a program stores data in memory, managed by the language runtime. Each is optimized for different use cases, such as fast access or flexible lifetimes. Go follows the same model, but you usually don’...]]></summary>
-        <author>
-            <name>Eti Ijeoma</name>
         </author>
     </entry>
     <entry>
@@ -330,19 +351,6 @@ Responsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Props @custom-media Recipes]]></title>
-        <id>https://css-tricks.com/?p=391757</id>
-        <link href="https://css-tricks.com/open-props-custom-media-recipes/"/>
-        <updated>2026-01-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind a flag for now.
-Look for layout.css.custom-media.enabled
-I often forget the exact name of …
-Open Props @custom-media Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond Generative: The Rise Of Agentic AI And User-Centric Design]]></title>
         <id>https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/</id>
         <link href="https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/"/>
@@ -350,16 +358,6 @@ Open Props @custom-media Recipes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking “Pixel Perfect” Web Design]]></title>
-        <id>https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/</id>
-        <link href="https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/"/>
-        <updated>2026-01-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amit Sheen)</name>
         </author>
     </entry>
 </feed>
