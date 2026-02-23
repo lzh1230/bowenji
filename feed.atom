@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-22T11:17:00.811Z</id>
+    <id>urn:2026-02-23T11:35:57.729Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T11:17:00.811Z</updated>
+    <updated>2026-02-23T11:35:57.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Designer’s Guide To Eco-Friendly Interfaces]]></title>
+        <id>https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/</id>
+        <link href="https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/"/>
+        <updated>2026-02-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Reusable Modular Unity Packages to Speed Up Development]]></title>
         <id>6998ee96a20b74e093d7e671</id>
