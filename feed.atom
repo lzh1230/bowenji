@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-26T11:36:01.976Z</id>
+    <id>urn:2026-02-27T11:27:54.481Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T11:36:01.976Z</updated>
+    <updated>2026-02-27T11:27:54.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Python and Build Autonomous Agents]]></title>
+        <id>69a062cfab6baac8ff1a081d</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/"/>
+        <updated>2026-02-26T15:12:15.000Z</updated>
+        <summary type="html"><![CDATA[The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Kubernetes Through Production-Ready Practice]]></title>
+        <id>69a06148ab6baac8ff198f13</id>
+        <link href="https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/"/>
+        <updated>2026-02-26T15:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Stop memorizing isolated commands and start building like a platform engineer. We just posted comprehensive Kubernetes course on the freeCodeCamp.org YouTube channel. This hands-on course is designed]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Cheese! Meet SmashingConf Amsterdam 🇳🇱]]></title>
+        <id>https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/</id>
+        <link href="https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Exploit … in CSS?!]]></title>
         <id>https://css-tricks.com/?p=392606</id>
@@ -129,16 +159,6 @@ Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally publishe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Documentation as a Marketing Tool]]></title>
-        <id>69989fd0a20b74e093ce4fcb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-documentation-as-a-marketing-tool/"/>
-        <updated>2026-02-20T17:54:24.000Z</updated>
-        <summary type="html"><![CDATA[I was recently moved to the marketing team at my company, and that shift has made me reflect more deeply on the role documentation plays in our go-to-market strategy. Before this move, we've had sever]]></summary>
-        <author>
-            <name>Onyeanuna Prince</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Potentially Coming to a Browser :near() You]]></title>
         <id>https://css-tricks.com/?p=392208</id>
         <link href="https://css-tricks.com/potentially-coming-to-a-browser-near-you/"/>
@@ -147,16 +167,6 @@ Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally publishe
 Potentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Java on Mac in 2026]]></title>
-        <id>69987a933dc17c4862f4c18d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-java-on-mac/"/>
-        <updated>2026-02-20T15:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Java is the most widely used programming language for enterprise software, Android development, and university computer science courses. Apple doesn't include Java with macOS, so you need to install i]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
         </author>
     </entry>
     <entry>
