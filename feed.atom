@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T11:28:32.250Z</id>
+    <id>urn:2026-03-13T11:26:39.296Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T11:28:32.250Z</updated>
+    <updated>2026-03-13T11:26:39.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Containerize Your MLOps Pipeline from Training to Serving]]></title>
+        <id>69b33f5993256dfc5313bee2</id>
+        <link href="https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/"/>
+        <updated>2026-03-12T22:34:01.000Z</updated>
+        <summary type="html"><![CDATA[Last year, our ML team shipped a fraud detection model that worked perfectly in a Jupyter notebook. Precision was excellent. Recall numbers looked great. Everyone was excited – until we tried to deplo]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Your Auth Library Isn't Telling You About Passwords: Hashing and Salting Explained]]></title>
+        <id>69b310eb93256dfc5303de72</id>
+        <link href="https://www.freecodecamp.org/news/passwords-hashing-and-salting-explained/"/>
+        <updated>2026-03-12T19:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Before I started building auth into my own projects, I didn't think too deeply about what was happening to passwords behind the scenes. Like most developers, I installed a library, called a hash funct]]></summary>
+        <author>
+            <name>Tilda Udufo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Self-Host AFFiNE on Windows with WSL and Docker]]></title>
+        <id>69b2e3051be92d8f177bf807</id>
+        <link href="https://www.freecodecamp.org/news/self-host-affine-windows/"/>
+        <updated>2026-03-12T16:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Depending on cloud apps means that you don't truly own your notes. If your internet goes down or if the company changes its rules, you could lose access. In this article, you'll learn how to build you]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recursion in Python – A Practical Introduction for Beginners]]></title>
+        <id>69b2e2721be92d8f1778c002</id>
+        <link href="https://www.freecodecamp.org/news/recursion-in-python-intro-for-beginners/"/>
+        <updated>2026-03-12T15:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Recursion is when a function solves a problem by calling itself. It sounds odd at first — why would a function call itself? — but once it clicks, you'll find it's often the most natural way to express]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started Coding in Golang]]></title>
+        <id>69b2e2251be92d8f177786a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-coding-in-golang/"/>
+        <updated>2026-03-12T15:56:21.000Z</updated>
+        <summary type="html"><![CDATA[In the world of Software Engineering, there are plenty of programming languages to learn. And there are both low-level and high-level options. I’ve tried my hand at a few of them, and the one language]]></summary>
+        <author>
+            <name>Njong Emy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI]]></title>
+        <id>https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/</id>
+        <link href="https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/"/>
+        <updated>2026-03-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Table of Contents for Your Article]]></title>
         <id>69b27bc5f22e712aaa45f840</id>
@@ -53,56 +113,6 @@
         <summary type="html"><![CDATA[In any analysis project, raw tables of numbers often don’t tell the full story. Visualisations simplify complexity by transforming data into shapes that our brains can quickly understand, emphasising]]></summary>
         <author>
             <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Autonomous AI Agent with n8n and Decapod]]></title>
-        <id>69b1ce1f6c896b0519c1c8f5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-autonomous-ai-agent-with-n8n-and-decapod/"/>
-        <updated>2026-03-11T20:18:39.000Z</updated>
-        <summary type="html"><![CDATA[I tried out Open Claw two weeks ago. I loved the potential, but did not enjoy the tool itself. I, like many others, struggled with the installation process. And working from Linux, the Mac specific or]]></summary>
-        <author>
-            <name>Lee Nathan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Serverless RAG Pipeline on AWS That Scales to Zero]]></title>
-        <id>69b1b23c6c896b0519b4eda8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-serverless-rag-pipeline-on-aws-that-scales-to-zero/"/>
-        <updated>2026-03-11T18:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end]]></summary>
-        <author>
-            <name>Christopher Galliart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CI/CD in Production with Jenkins]]></title>
-        <id>69b199496c896b0519a8964c</id>
-        <link href="https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/"/>
-        <updated>2026-03-11T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Automation is no longer just a "nice-to-have" skill, it powers modern software development. To help you master automation and CI/CD, we’ve just released a massive 17-hour Jenkins course on the freeCod]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Flex in Tailwind CSS and Justify Flex Items]]></title>
-        <id>69b1975b6c896b0519a78b21</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-flex-in-tailwind-css-and-justify-flex-items/"/>
-        <updated>2026-03-11T16:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Hey there! If you're building modern web interfaces, chances are you've already fallen in love with Tailwind CSS for its speed and flexibility. One of the most powerful tools in Tailwind's arsenal is]]></summary>
-        <author>
-            <name>Ajay Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to fine-tune LLMs in 12 hours]]></title>
-        <id>69b191d16c896b0519a4b11f</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/"/>
-        <updated>2026-03-11T16:01:21.000Z</updated>
-        <summary type="html"><![CDATA[The goal isn't just to train a model; it's to build a system that understands your specific data as well as you do. We just posted a massive, 12-hour course on the freeCodeCamp.org YouTube channel des]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -368,16 +378,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
 Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability]]></title>
-        <id>https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/</id>
-        <link href="https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/"/>
-        <updated>2026-02-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
