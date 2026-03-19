@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-18T11:41:09.439Z</id>
+    <id>urn:2026-03-19T11:31:07.502Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T11:41:09.439Z</updated>
+    <updated>2026-03-19T11:31:07.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs]]></title>
+        <id>69bb2fa98c55d6eefb6ce907</id>
+        <link href="https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/"/>
+        <updated>2026-03-18T23:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Most RAG tutorials show you a working demo and call it done. You copy the code, it runs locally, and then you try to put it in production and everything falls apart. This tutorial is different. I run]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production-Ready Flutter CI/CD Pipeline with GitHub Actions: Quality Gates, Environments, and Store Deployment]]></title>
+        <id>69bb2e078c55d6eefb6c2e8d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-flutter-ci-cd-pipeline-with-github-actions-quality-gates-environments-and-store-deployment/"/>
+        <updated>2026-03-18T22:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Mobile application development has evolved over the years. The processes, structure, and syntax we use has changed, as well as the quality and flexibility of the apps we build. One of the major improv]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Your Docker Build Cache & Cut Your CI/CD Pipeline Times by 80%]]></title>
+        <id>69bb1e218c55d6eefb64955f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-your-docker-build-cache/"/>
+        <updated>2026-03-18T21:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Every developer has been there. You push a one-line fix, grab your coffee, and wait. And wait. Twelve minutes later, your Docker image finishes rebuilding from scratch because something about the cach]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build 19 Web Dev Projects using HTML, CSS, & JavaScript]]></title>
+        <id>69bb17b58c55d6eefb61f5c5</id>
+        <link href="https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/"/>
+        <updated>2026-03-18T21:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Improve your web development skills by building 19 different projects. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use HTML, CSS, and JavaScript to make all]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an E-Commerce Web App with Paystack, NextJS, Supabase]]></title>
+        <id>69bb16b38c55d6eefb61a331</id>
+        <link href="https://www.freecodecamp.org/news/build-an-e-commerce-web-app-with-paystack-nextjs-supabase/"/>
+        <updated>2026-03-18T21:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Paystack is a seamless payment gateway for businesses to accept online transactions. It is like Stripe but with a focus on Africa. We just posted a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an End-to-End ML Platform Locally: From Experiment Tracking to CI/CD]]></title>
         <id>69b9bab4c22d3eeb8afd5284</id>
@@ -63,56 +113,6 @@
         <summary type="html"><![CDATA[Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alan Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered Research Automation System with n8n, Groq, and Academic APIs]]></title>
-        <id>69b849372ad6ae5184dbb6b8</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-research-automation-system-with-n8n-groq-and-academic-apis/"/>
-        <updated>2026-03-16T18:17:27.000Z</updated>
-        <summary type="html"><![CDATA[As a researcher and developer, I found myself spending hours manually searching academic databases, reading abstracts, and trying to synthesize findings across multiple sources. For my work on circula]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penetration Testing — Services vs Automated Platforms: What’s Better in 2026?]]></title>
-        <id>69b843d22ad6ae5184d73e34</id>
-        <link href="https://www.freecodecamp.org/news/penetration-testing-services-vs-automated-platforms-what-is-better/"/>
-        <updated>2026-03-16T17:54:26.000Z</updated>
-        <summary type="html"><![CDATA[In 2026, cybersecurity teams face more threats than ever before. Attack surfaces are broad, technology stacks are complex, and adversaries are quick to exploit weak points. Against this backdrop, comp]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test a Complex Full-Stack App: Manual Approach vs AI-Assisted Testing]]></title>
-        <id>69b843852ad6ae5184d6fa75</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-a-complex-full-stack-app-manual-vs-ai-assisted-testing/"/>
-        <updated>2026-03-16T17:53:09.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago, I ran an experiment with an AI-powered testing agent that lets you write test cases in plain English instead of code. I opened its natural language interface and typed four simple sent]]></summary>
-        <author>
-            <name>Ajay Yadav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Own 24x7 AI Agent using OpenClaw]]></title>
-        <id>69b841aa2ad6ae5184d57f6d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-own-24x7-ai-agent-using-openclaw/"/>
-        <updated>2026-03-16T17:45:14.000Z</updated>
-        <summary type="html"><![CDATA[OpenClaw is a self-hosted AI assistant designed to run under your control instead of inside a hosted SaaS platform. It can connect to messaging interfaces, local tools, and model providers while keepi]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ship a Production-Ready RAG App with FAISS (Guardrails, Evals, and Fallbacks)]]></title>
-        <id>69b841572ad6ae5184d54317</id>
-        <link href="https://www.freecodecamp.org/news/build-rag-app-faiss-fastapi/"/>
-        <updated>2026-03-16T17:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Most LLM applications look great in a high-fidelity demo. Then they hit the hands of real users and start failing in very predictable yet damaging ways. They answer questions they should not, they bre]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
         </author>
     </entry>
     <entry>
@@ -366,28 +366,6 @@ Distinguishing “Components” and “Utilities” in Tailwind originally publi
         <summary type="html"><![CDATA[What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spiral Scrollytelling in CSS With sibling-index()]]></title>
-        <id>https://css-tricks.com/?p=391909</id>
-        <link href="https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/"/>
-        <updated>2026-02-17T15:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.
-Spiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interop 2026]]></title>
-        <id>https://css-tricks.com/?p=392321</id>
-        <link href="https://css-tricks.com/interop-2026/"/>
-        <updated>2026-02-17T14:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!
-Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
