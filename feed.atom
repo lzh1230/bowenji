@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T11:31:07.502Z</id>
+    <id>urn:2026-03-20T11:26:55.159Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T11:31:07.502Z</updated>
+    <updated>2026-03-20T11:26:55.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up WebAuthn in Node.js for Passwordless Biometric Login]]></title>
+        <id>69bc51d6b238fd45a32f1cb0</id>
+        <link href="https://www.freecodecamp.org/news/set-up-webauthn-in-node-js-for-passwordless-biometric-login/"/>
+        <updated>2026-03-19T19:43:18.000Z</updated>
+        <summary type="html"><![CDATA[JWT auth feels clean until a stolen token still looks valid to your server. That's the real problem: a bearer token proves possession of a token, but it doesn't prove possession of a trusted device. I]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Testing with Playwright]]></title>
+        <id>69bc3c86b238fd45a32512ba</id>
+        <link href="https://www.freecodecamp.org/news/software-testing-with-playwright/"/>
+        <updated>2026-03-19T18:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Testing is the unsung hero of software development because shipping features is only half the battle. We just published a comprehensive course on the freeCodeCamp.org YouTube channel that will teach y]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Form UX Audits: Errors, Hints, and Keyboard Flows]]></title>
+        <id>69bc38cfb238fd45a3231433</id>
+        <link href="https://www.freecodecamp.org/news/automate-form-ux-audits-handbook/"/>
+        <updated>2026-03-19T17:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Forms are often the gatekeepers to conversions on a site or application. Abandoned carts, partially signed-up users, and users who stop engaging with your app are often thanks to friction with forms.]]></summary>
+        <author>
+            <name>Oleh Romanyuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Atomic CSS and Functional Programming Are Related]]></title>
+        <id>69bc348fb238fd45a320a2f7</id>
+        <link href="https://www.freecodecamp.org/news/atomic-and-functional-css/"/>
+        <updated>2026-03-19T17:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Hello, friends! My name is Ramazan, and I'm a front-end developer and enthusiast who loves looking at familiar things in web development from new perspectives. You might have heard of functional progr]]></summary>
+        <author>
+            <name>Ramazan Maksyutov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Staring at a Blank Deck: How I Use Claude Code + Marp to Think Through Presentations]]></title>
+        <id>69bc3429b238fd45a3206764</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-claude-code-and-marp-to-think-through-presentations/"/>
+        <updated>2026-03-19T17:36:41.000Z</updated>
+        <summary type="html"><![CDATA[The hard part of building a presentation is figuring out the story. What are you trying to say? What’s the structure? Which sections build on which? Where does the data go, table or bullets? Before th]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Troubleshoot Ghost CMS: Fixing WSL, Docker, and ActivityPub Errors]]></title>
+        <id>69bc3254b238fd45a31f6959</id>
+        <link href="https://www.freecodecamp.org/news/fix-ghost-cms-errors/"/>
+        <updated>2026-03-19T17:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Setting up Ghost CMS (Content Management System) on your local machine is a great way to develop themes and test new features. But if you're using Windows or Docker, you might run into errors that sto]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement the Outbox Pattern in Go and PostgreSQL]]></title>
+        <id>69bc31b3b238fd45a31f1291</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-the-outbox-pattern-in-go-and-postgresql/"/>
+        <updated>2026-03-19T17:26:11.000Z</updated>
+        <summary type="html"><![CDATA[In event-driven systems, two things need to happen when you process a request: you need to save data to your database, and you need to publish an event to a message broker so other services know somet]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modal vs. Separate Page: UX Decision Tree]]></title>
+        <id>https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/</id>
+        <link href="https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/"/>
+        <updated>2026-03-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript for Everyone: Destructuring]]></title>
+        <id>https://css-tricks.com/?p=392714</id>
+        <link href="https://css-tricks.com/javascript-for-everyone-destructuring/"/>
+        <updated>2026-03-19T13:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. 
+JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs]]></title>
         <id>69bb2fa98c55d6eefb6ce907</id>
@@ -36,76 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build 19 Web Dev Projects using HTML, CSS, & JavaScript]]></title>
-        <id>69bb17b58c55d6eefb61f5c5</id>
-        <link href="https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/"/>
-        <updated>2026-03-18T21:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Improve your web development skills by building 19 different projects. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use HTML, CSS, and JavaScript to make all]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an E-Commerce Web App with Paystack, NextJS, Supabase]]></title>
-        <id>69bb16b38c55d6eefb61a331</id>
-        <link href="https://www.freecodecamp.org/news/build-an-e-commerce-web-app-with-paystack-nextjs-supabase/"/>
-        <updated>2026-03-18T21:18:43.000Z</updated>
-        <summary type="html"><![CDATA[Paystack is a seamless payment gateway for businesses to accept online transactions. It is like Stripe but with a focus on Africa. We just posted a course on the freeCodeCamp.org YouTube channel that]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an End-to-End ML Platform Locally: From Experiment Tracking to CI/CD]]></title>
-        <id>69b9bab4c22d3eeb8afd5284</id>
-        <link href="https://www.freecodecamp.org/news/build-end-to-end-ml-platform-locally-from-experiment-tracking-to-cicd/"/>
-        <updated>2026-03-17T20:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning projects don’t end at training a model in a Jupyter notebook. The hard part is the “last mile”: turning that notebook model into something you can run reliably, update safely, and tru]]></summary>
-        <author>
-            <name>Sandeep Bharadwaj Mannapur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement GitOps on Kubernetes Using Argo CD]]></title>
-        <id>69b99877c22d3eeb8ae62100</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-gitops-on-kubernetes-using-argo-cd/"/>
-        <updated>2026-03-17T18:07:51.000Z</updated>
-        <summary type="html"><![CDATA[If you’re still running kubectl apply from your local terminal, you aren’t managing a cluster, you’re babysitting one. I’ve spent more nights than I care to admit staring at a terminal, trying to figu]]></summary>
-        <author>
-            <name>Olumoko Moses</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top ngrok Alternatives for 2026 – How to Choose the Best Tunneling Tool for Your Use Case]]></title>
-        <id>69b997ffc22d3eeb8ae5d4a6</id>
-        <link href="https://www.freecodecamp.org/news/top-ngrok-alternatives-tunneling-tools/"/>
-        <updated>2026-03-17T18:05:51.000Z</updated>
-        <summary type="html"><![CDATA[ngrok is a tunneling tool that lets developers expose a local server to the public internet through a secure URL. In practice, this means you can run a web app on your laptop and instantly make it acc]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ask a Great (Technical) Question: The Art of Getting Help Debugging Code]]></title>
-        <id>69b997b8c22d3eeb8ae5a273</id>
-        <link href="https://www.freecodecamp.org/news/how-to-ask-a-great-technical-question/"/>
-        <updated>2026-03-17T18:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Computers will, 100% of the time, without fail, do exactly what you tell them to do. It's getting them to do what you want them to do that's the real trick. The gap between what you tell the computer]]></summary>
-        <author>
-            <name>Pete Lamonica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full-Stack CRUD App with React, AWS Lambda, DynamoDB, and Cognito Auth]]></title>
-        <id>69b96f7ec22d3eeb8ac3bf81</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-aws-react-lambda-dynamodb-tutorial/"/>
-        <updated>2026-03-17T15:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Building a web application that works only on your local machine is one thing. Building one that is secure, connected to a real database, and accessible to anyone on the internet is another challenge]]></summary>
-        <author>
-            <name>Benedicta Onyebuchi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow]]></title>
         <id>https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/</id>
         <link href="https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/"/>
@@ -120,7 +141,7 @@
         <id>https://css-tricks.com/?p=393021</id>
         <link href="https://css-tricks.com/whats-important-7/"/>
         <updated>2026-03-16T15:06:01.000Z</updated>
-        <summary type="html"><![CDATA[For this issue of What’s !important, we have a healthy balance of old CSS that you might’ve missed and new CSS that you don’t want to miss. This includes random(), random-item(), folded corners using clip-path, backdrop-filter, font-variant-numeric: tabular-nums, the Popover API, anchored container queries, anchor positioning in general, DOOM in CSS, the customizable select element, :open, scroll-triggered animations, the toolbar element, and somehow, more.
+        <summary type="html"><![CDATA[For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.
 What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
@@ -345,27 +366,6 @@ Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally publishe
 Potentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distinguishing “Components” and “Utilities” in Tailwind]]></title>
-        <id>https://css-tricks.com/?p=390460</id>
-        <link href="https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/"/>
-        <updated>2026-02-18T16:21:41.000Z</updated>
-        <summary type="html"><![CDATA[The distinction between "components" and "utilities" seems clear at first glance, but gets a little blurred when working with them in Tailwind.
-Distinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing A Streak System: The UX And Psychology Of Streaks]]></title>
-        <id>https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/</id>
-        <link href="https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/"/>
-        <updated>2026-02-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
