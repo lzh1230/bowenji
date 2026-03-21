@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T11:26:55.159Z</id>
+    <id>urn:2026-03-21T11:18:35.709Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T11:26:55.159Z</updated>
+    <updated>2026-03-21T11:18:35.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly]]></title>
+        <id>https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/</id>
+        <link href="https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/"/>
+        <updated>2026-03-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]]]></title>
+        <id>69bd2ff0edfa9acbe3847525</id>
+        <link href="https://www.freecodecamp.org/news/the-world-still-needs-people-who-care-codepen-founder-chris-coyier-interview-podcast-212/"/>
+        <updated>2026-03-20T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Chris Coyier. He's a front-end developer and co-founder of CodePen and the CSS Tricks blog. He has also recorded more than 700 podcasts about software engineering. We ta]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up WebAuthn in Node.js for Passwordless Biometric Login]]></title>
         <id>69bc51d6b238fd45a32f1cb0</id>
@@ -114,16 +134,6 @@ JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[Mobile application development has evolved over the years. The processes, structure, and syntax we use has changed, as well as the quality and flexibility of the apps we build. One of the major improv]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Your Docker Build Cache & Cut Your CI/CD Pipeline Times by 80%]]></title>
-        <id>69bb1e218c55d6eefb64955f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-your-docker-build-cache/"/>
-        <updated>2026-03-18T21:50:25.000Z</updated>
-        <summary type="html"><![CDATA[Every developer has been there. You push a one-line fix, grab your coffee, and wait. And wait. Twelve minutes later, your Docker image finishes rebuilding from scratch because something about the cach]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
         </author>
     </entry>
     <entry>
