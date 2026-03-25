@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T11:41:23.772Z</id>
+    <id>urn:2026-03-25T11:37:34.308Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T11:41:23.772Z</updated>
+    <updated>2026-03-25T11:37:34.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Testing Font Scaling For Accessibility With Figma Variables]]></title>
+        <id>https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/</id>
+        <link href="https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"/>
+        <updated>2026-03-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ruben Ferreira Duarte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Complete Flutter CI/CD Pipeline with Codemagic: From PR Quality Gates to Automated Store Releases]]></title>
         <id>69c1dcba30a9b81e3ac436d8</id>
@@ -355,27 +365,6 @@ An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the
 A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loading Smarter: SVG vs. Raster Loaders in Modern Web Design]]></title>
-        <id>https://css-tricks.com/?p=391982</id>
-        <link href="https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/"/>
-        <updated>2026-02-23T14:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work.
-Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Designer’s Guide To Eco-Friendly Interfaces]]></title>
-        <id>https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/</id>
-        <link href="https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/"/>
-        <updated>2026-02-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
