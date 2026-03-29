@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-28T11:23:40.258Z</id>
+    <id>urn:2026-03-29T11:23:43.711Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T11:23:40.258Z</updated>
+    <updated>2026-03-29T11:23:43.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -332,28 +332,6 @@ Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More]]></title>
-        <id>https://css-tricks.com/?p=392661</id>
-        <link href="https://css-tricks.com/whats-important-6/"/>
-        <updated>2026-02-27T16:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!
-What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yet Another Way to Center an (Absolute) Element]]></title>
-        <id>https://css-tricks.com/?p=392540</id>
-        <link href="https://css-tricks.com/yet-another-way-to-center-an-absolute-element/"/>
-        <updated>2026-02-27T14:40:42.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!
-Yet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
