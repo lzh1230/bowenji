@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T11:52:08.592Z</id>
+    <id>urn:2026-03-31T11:43:17.809Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T11:52:08.592Z</updated>
+    <updated>2026-03-31T11:43:17.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/</id>
+        <link href="https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"/>
+        <updated>2026-03-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Local SEO Audit Agent with Browser Use and Claude API]]></title>
+        <id>69cb09249fffa747409f133f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-seo-audit-agent-with-browser-use-and-claude-api/"/>
+        <updated>2026-03-30T23:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Every digital marketing agency has someone whose job involves opening a spreadsheet, visiting each client URL, checking the title tag, meta description, and H1, noting broken links, and pasting everyt]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient State Management in Flutter Using IndexedStack]]></title>
+        <id>69cb073e9fffa747409e18f2</id>
+        <link href="https://www.freecodecamp.org/news/efficient-state-management-in-flutter-using-indexedstack/"/>
+        <updated>2026-03-30T23:29:02.000Z</updated>
+        <summary type="html"><![CDATA[When you're building Flutter applications that have multiple tabs or screens, one of the most common challenges you'll face is maintaining state across navigation without breaking the user experience.]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design a Type-Safe, Lazy, and Secure Plugin Architecture in React]]></title>
+        <id>69caa5bc9fffa747404dbd51</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-a-type-safe-lazy-and-secure-plugin-architecture-in-react/"/>
+        <updated>2026-03-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern web applications increasingly need to evolve faster than a single team can maintain a monolithic codebase. Product teams often want to add features independently, experiment with new capabiliti]]></summary>
+        <author>
+            <name>Jessica Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a QR Code Generator Using JavaScript – A Step-by-Step Guide]]></title>
+        <id>69ca871b9fffa74740319797</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-qr-code-generator-using-javascript/"/>
+        <updated>2026-03-30T14:22:19.000Z</updated>
+        <summary type="html"><![CDATA[QR codes are everywhere today. You scan them to open websites, make payments, connect to WiFi, or even download apps. Most developers use online tools when they need one quickly. But just like image c]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Animated Shadcn Tab Component with Shadcn/ui]]></title>
+        <id>69ca85f69fffa747403074fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-animated-shadcn-tab-component-with-shadcn-ui/"/>
+        <updated>2026-03-30T14:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Tab components are everywhere: dashboards, settings panels, product pages. But most implementations are static, lifeless, and forgettable. What if your tabs felt alive, with smooth spring animations,]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Form Automation Tips for Happier User and Clients]]></title>
+        <id>https://css-tricks.com/?p=391993</id>
+        <link href="https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/"/>
+        <updated>2026-03-30T14:12:14.000Z</updated>
+        <summary type="html"><![CDATA[That gap between "the form works" and "the business works" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control
+Form Automation Tips for Happier User and Clients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Iqra Naaem</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Implement Token Bucket Rate Limiting with FastAPI]]></title>
         <id>69c6f8747cf270651055571c</id>
@@ -53,56 +124,6 @@
         <summary type="html"><![CDATA[If you've ever needed your database to automatically respond to changes – like logging every update to a sensitive table, enforcing a business rule before an insert, or syncing derived data after a de]]></summary>
         <author>
             <name>iyiola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happened When I Replaced Copilot with Claude Code for 2 Weeks]]></title>
-        <id>69c6d07e7cf2706510370b13</id>
-        <link href="https://www.freecodecamp.org/news/what-happened-when-i-replaced-copilot-with-claude-code-for-2-weeks/"/>
-        <updated>2026-03-27T18:46:22.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Copilot costs $10/month, and I'd been using it for two years without thinking twice. But when Claude Code launched, I got curious. What if I just... switched? I didn't want to just add Claude C]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud-Native Development with Azure DevOps CI/CD Pipelines in Enterprise .NET Applications]]></title>
-        <id>69c6a9e49aa3928a58bfd382</id>
-        <link href="https://www.freecodecamp.org/news/cloud-native-development-with-azure-devops-ci-cd-pipelines-in-enterprise-net-applications/"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud-native development enables enterprise .NET applications to scale and remain resilient in the cloud. Using Azure DevOps CI/CD pipelines, you can automate building, testing, and deploying applicat]]></summary>
-        <author>
-            <name>Gopinath Karunanithi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create and Use Checkboxes in Figma]]></title>
-        <id>69c6a8f79aa3928a58bf4237</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-and-use-checkboxes-in-figma/"/>
-        <updated>2026-03-27T15:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Checkboxes are a fundamental part of modern UI design. They allow users to make multiple selections, confirm actions, and control features with ease. And while they may appear simple, designing intera]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens when the model CAN'T fix it? Interview with software engineer Landon Gray [Podcast #213]]]></title>
-        <id>69c663a8267178d9ebf9a641</id>
-        <link href="https://www.freecodecamp.org/news/what-happens-when-the-model-can-t-fix-it-interview-with-software-engineer-landon-gray-podcast-213/"/>
-        <updated>2026-03-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Landon Gray. He's a software engineer who worked at agencies for years. Then he taught himself AI assisted software development. And now he's helping other devs do the s]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Override API Responses and Headers in Chrome DevTools: A Step-by-Step Guide]]></title>
-        <id>69c5a33110e664c5da34c6d3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-override-api-responses-and-headers-in-chrome-devtools/"/>
-        <updated>2026-03-26T21:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever faced a situation as a frontend developer where you needed to show a demo to your product manager, and something was broken in the API response? Or, a production bug where you were block]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
         </author>
     </entry>
     <entry>
