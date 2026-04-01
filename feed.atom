@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T11:43:17.809Z</id>
+    <id>urn:2026-04-01T11:46:57.296Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T11:43:17.809Z</updated>
+    <updated>2026-04-01T11:46:57.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Design Principles]]></title>
+        <id>https://smashingmagazine.com/2026/04/practical-guide-design-principles/</id>
+        <link href="https://smashingmagazine.com/2026/04/practical-guide-design-principles/"/>
+        <updated>2026-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI-Powered Flutter Applications with Genkit Dart – Full Handbook for Devs]]></title>
+        <id>69cc570be4688e4edd59bc32</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-powered-flutter-applications-with-genkit-dart-handbook-for-devs/"/>
+        <updated>2026-03-31T23:21:47.000Z</updated>
+        <summary type="html"><![CDATA[There's a particular kind of frustration that every mobile developer has felt at some point. You're building a Flutter application, and you want to add an AI feature. Perhaps it's something that reads]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Agents That Can Control Cloud Infrastructure]]></title>
+        <id>69cbefa6c1e86567d7576d3e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-agents-that-can-control-cloud-infrastructure/"/>
+        <updated>2026-03-31T16:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Cloud infrastructure has become deeply programmable over the past decade. Nearly every platform exposes APIs that allow developers to create applications, provision databases, configure networking, an]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More]]></title>
+        <id>https://css-tricks.com/?p=393306</id>
+        <link href="https://css-tricks.com/whats-important-8/"/>
+        <updated>2026-03-31T14:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.
+What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/</id>
@@ -104,26 +145,6 @@ Form Automation Tips for Happier User and Clients originally published on CSS-Tr
         <summary type="html"><![CDATA[Next.js App Router splits your app into Server Components and Client Components. Server Components run on the server and keep secrets safe. Client Components run in the browser and handle interactivit]]></summary>
         <author>
             <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Multiple Kubernetes Clusters Without the Overhead Using kcp]]></title>
-        <id>69c6ea5a7cf27065104ab997</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-multiple-kubernetes-clusters-without-the-overhead-using-kcp/"/>
-        <updated>2026-03-27T20:36:42.000Z</updated>
-        <summary type="html"><![CDATA[In Kubernetes, when you need to isolate workloads, you might start by using namespaces. Namespaces provide a simple way to separate workloads within a single cluster. But as your requirements grow, es]]></summary>
-        <author>
-            <name>Olalekan Odukoya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Database Triggers? A Practical Introduction with PostgreSQL Examples]]></title>
-        <id>69c6d1357cf270651037755c</id>
-        <link href="https://www.freecodecamp.org/news/what-are-database-triggers-practical-intro-with-postgresql-examples/"/>
-        <updated>2026-03-27T18:49:25.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever needed your database to automatically respond to changes – like logging every update to a sensitive table, enforcing a business rule before an insert, or syncing derived data after a de]]></summary>
-        <author>
-            <name>iyiola</name>
         </author>
     </entry>
     <entry>
@@ -322,27 +343,6 @@ The Different Ways to Select <html> in CSS originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popover API or Dialog API: Which to Choose?]]></title>
-        <id>https://css-tricks.com/?p=388435</id>
-        <link href="https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"/>
-        <updated>2026-03-02T15:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.
-Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With The Popover API]]></title>
-        <id>https://smashingmagazine.com/2026/03/getting-started-popover-api/</id>
-        <link href="https://smashingmagazine.com/2026/03/getting-started-popover-api/"/>
-        <updated>2026-03-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
         </author>
     </entry>
 </feed>
