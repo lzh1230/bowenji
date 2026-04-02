@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-01T11:46:57.296Z</id>
+    <id>urn:2026-04-02T11:41:28.114Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T11:46:57.296Z</updated>
+    <updated>2026-04-02T11:41:28.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Tools for Developers –]]></title>
+        <id>69cd715a3085402b9c54b3fe</id>
+        <link href="https://www.freecodecamp.org/news/ai-tools-for-developers/"/>
+        <updated>2026-04-01T19:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Using AI tools is an important part of being a software developer. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI tools to become more productive as]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Fools: Top 10 April Fools’ UI Pranks of All Time]]></title>
+        <id>https://css-tricks.com/?p=392794</id>
+        <link href="https://css-tricks.com/front-end-april-fools-top-10/"/>
+        <updated>2026-04-01T14:00:26.000Z</updated>
+        <summary type="html"><![CDATA[These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.
+Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sniffing Out the CSS Olfactive API]]></title>
+        <id>https://css-tricks.com/?p=393070</id>
+        <link href="https://css-tricks.com/css-olfactive-api/"/>
+        <updated>2026-04-01T13:54:47.000Z</updated>
+        <summary type="html"><![CDATA[A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.
+Sniffing Out the CSS Olfactive API originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Practical Guide To Design Principles]]></title>
         <id>https://smashingmagazine.com/2026/04/practical-guide-design-principles/</id>
@@ -135,16 +167,6 @@ Form Automation Tips for Happier User and Clients originally published on CSS-Tr
         <summary type="html"><![CDATA[Every developer eventually has a workflow they repeat. A way they write commit messages. A checklist they run before opening a pull request. A structure they follow when reviewing code. They do it man]]></summary>
         <author>
             <name>Daniel Nwaneri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Share Components Between Server and Client in NextJS]]></title>
-        <id>69c6eb7c7cf27065104ba964</id>
-        <link href="https://www.freecodecamp.org/news/how-to-share-components-between-server-and-client-in-nextjs/"/>
-        <updated>2026-03-27T20:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Next.js App Router splits your app into Server Components and Client Components. Server Components run on the server and keep secrets safe. Client Components run in the browser and handle interactivit]]></summary>
-        <author>
-            <name>David Aniebo</name>
         </author>
     </entry>
     <entry>
@@ -333,16 +355,6 @@ The Value of z-index originally published on CSS-Tricks, which is part of the Di
 The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams]]></title>
-        <id>https://smashingmagazine.com/2026/03/accessible-ux-research-release/</id>
-        <link href="https://smashingmagazine.com/2026/03/accessible-ux-research-release/"/>
-        <updated>2026-03-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ari Stiles)</name>
         </author>
     </entry>
 </feed>
