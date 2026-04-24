@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T11:56:55.565Z</id>
+    <id>urn:2026-04-24T11:54:05.116Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T11:56:55.565Z</updated>
+    <updated>2026-04-24T11:54:05.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Trace Multi-Agent AI Swarms with Jaeger v2]]></title>
+        <id>69eaae45904b915438cefb47</id>
+        <link href="https://www.freecodecamp.org/news/multi-agent-ai-swarms-tracing/"/>
+        <updated>2026-04-23T23:41:57.000Z</updated>
+        <summary type="html"><![CDATA[When you run a single AI agent, debugging is straightforward. You read the log, you see what happened. When you run five agents in a swarm, each spawning its own tool calls and producing its own outpu]]></summary>
+        <author>
+            <name>Christopher Galliart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Tested Malaysia's Open Data Portals with Plain English]]></title>
+        <id>69eaad32904b915438ce46f9</id>
+        <link href="https://www.freecodecamp.org/news/how-i-tested-malaysia-s-open-data-portals-with-plain-english/"/>
+        <updated>2026-04-23T23:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Most end-to-end test suites drive a real browser and click through an app like a user. They check whether a page renders and whether elements appear. But they don't check whether the numbers on those]]></summary>
+        <author>
+            <name>Tech With RJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Production-Ready CI/CD Pipeline for a Monorepo-Based Microservices System with Jenkins, Docker Compose, and Traefik]]></title>
+        <id>69ea60c8904b915438a58ca2</id>
+        <link href="https://www.freecodecamp.org/news/build-production-ready-ci-cd-pipeline-for-monorepo-based-microservices-system/"/>
+        <updated>2026-04-23T18:11:20.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is a complete, real-world guide to building a production-ready CI/CD pipeline using Jenkins, Docker Compose, and Traefik on a single Linux server. You’ll learn how to expose services on]]></summary>
+        <author>
+            <name>Md Tarikul Islam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Tax of Infrastructure: Why Your Team Shouldn’t Be Running It Anymore]]></title>
+        <id>69ea514b904b9154389b5a1f</id>
+        <link href="https://www.freecodecamp.org/news/the-hidden-tax-of-infrastructure-why-your-team-shouldn-t-be-running-it-anymore/"/>
+        <updated>2026-04-23T17:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Most engineering teams don't set out to manage infrastructure. They start with a product idea, a customer need, or a business problem. Infrastructure enters the picture as a means to an end. Servers n]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Metrics to Meaning: How PaaS Helps Developers Understand Production]]></title>
+        <id>69ea4e46904b91543899894d</id>
+        <link href="https://www.freecodecamp.org/news/from-metrics-to-meaning-how-paas-helps-developers-understand-production/"/>
+        <updated>2026-04-23T16:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern production systems generate more data than most developers can realistically process. Every request emits logs. Every service exports metrics. Every dependency introduces another layer of signa]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Symptoms to Root Cause: How to Use the 5 Whys Technique]]></title>
+        <id>69ea4d69904b915438990f19</id>
+        <link href="https://www.freecodecamp.org/news/from-symptoms-to-root-cause-how-to-use-the-5-whys-technique/"/>
+        <updated>2026-04-23T16:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Most teams don't struggle because they can't fix problems. They struggle because they fix the wrong thing. An API fails in production. You restart the service, errors go away, and it feels resolved. U]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating Apple’s Vision Pro Animation in CSS]]></title>
+        <id>https://css-tricks.com/?p=392970</id>
+        <link href="https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/"/>
+        <updated>2026-04-23T13:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.
+Recreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation for AI Rollouts: Why A/B Testing Breaks and How Difference-in-Differences in Python Fixes It]]></title>
         <id>69e94caed5f8830e7dae1569</id>
@@ -46,26 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Merge PDF Files in the Browser Using JavaScript (Step-by-Step)]]></title>
-        <id>69e8f8f6bca83cce6c55bcdf</id>
-        <link href="https://www.freecodecamp.org/news/merge-pdf-files-using-javascript/"/>
-        <updated>2026-04-22T16:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Working with PDFs is something almost every developer needs to know how to do. Sometimes you need to combine reports or invoices, or simply merge multiple documents into a single clean file. Most tool]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Stripe Webhooks Reliably with Background Jobs]]></title>
-        <id>69e8f14f5d1c10710571b1ae</id>
-        <link href="https://www.freecodecamp.org/news/stripe-webhooks-background-jobs/"/>
-        <updated>2026-04-22T16:03:27.000Z</updated>
-        <summary type="html"><![CDATA[You've set up Stripe. Checkout works. Customers can pay. But what happens after payment? The webhook handler is where most payment integrations silently break. Your server crashes halfway through gran]]></summary>
-        <author>
-            <name>Magnus Rødseth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Enhancing Astro With a Markdown Component]]></title>
         <id>https://css-tricks.com/?p=392286</id>
         <link href="https://css-tricks.com/astro-markdown-component/"/>
@@ -84,46 +135,6 @@ Enhancing Astro With a Markdown Component originally handwritten and published w
         <summary type="html"><![CDATA[In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Automatic Knowledge Graph for Your Blog with PHP and JSON-LD]]></title>
-        <id>69e80305e436727814adb8df</id>
-        <link href="https://www.freecodecamp.org/news/build-automatic-knowledge-graph-php-json-ld/"/>
-        <updated>2026-04-21T23:06:45.000Z</updated>
-        <summary type="html"><![CDATA[When someone searches for information today, they increasingly turn to AI models like ChatGPT, Perplexity, or Gemini instead of Google. But these models don't return a list of links. They synthesize a]]></summary>
-        <author>
-            <name>Shinobis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Proxies and Reverse Proxies: Your Gateway to Secure Networking]]></title>
-        <id>69e7e351e4367278149e58cb</id>
-        <link href="https://www.freecodecamp.org/news/understanding-proxies-and-reverse-proxies-your-gateway-to-secure-networking/"/>
-        <updated>2026-04-21T20:51:29.000Z</updated>
-        <summary type="html"><![CDATA[As our lives become increasingly digital, the need for secure networking solutions is more important than ever. Whether you’re browsing the web or managing a corporate network, the role of proxies is]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of Nvidia Blackwell GPU Memory Architecture]]></title>
-        <id>69e7b761e4367278147e0832</id>
-        <link href="https://www.freecodecamp.org/news/the-evolution-of-nvidia-blackwell-gpu-memory-architecture/"/>
-        <updated>2026-04-21T17:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Each GPU generation pushes against the same constraint: memory. Models grow faster than memory capacity, forcing engineers into complex multi-GPU setups, aggressive quantization, or painful trade-offs]]></summary>
-        <author>
-            <name>Rasheedat Atinuke Jamiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PostgreSQL as a Cache, Queue, and Search Engine]]></title>
-        <id>69e7accfe43672781470ff97</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/"/>
-        <updated>2026-04-21T16:58:55.000Z</updated>
-        <summary type="html"><![CDATA["Just use Postgres" has been circulating as advice for years, but most articles arguing for it are opinion pieces. I wanted hard numbers. So I built a benchmark suite that pits vanilla PostgreSQL agai]]></summary>
-        <author>
-            <name>Aaron Yong</name>
         </author>
     </entry>
     <entry>
@@ -317,17 +328,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
 Form Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Iqra Naaem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative UI Notes]]></title>
-        <id>https://css-tricks.com/?p=391438</id>
-        <link href="https://css-tricks.com/generative-ui-notes/"/>
-        <updated>2026-03-26T14:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.
-Generative UI Notes originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
