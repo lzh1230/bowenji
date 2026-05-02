@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=394456",
+          "author": "Daniel Schwarz",
+          "description": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.\nWhat’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-10/",
+          "publishedOn": "2026-05-01T13:43:26.000Z",
+          "wordCount": 3711,
+          "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh10.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=393373",
           "author": "Alvaro Montoro",
           "description": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -165,16 +175,6 @@
           "wordCount": 4290,
           "title": "saturate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393035",
-          "author": "Juan Diego Rodríguez",
-          "description": "The justify-self property aligns an individual element, overriding its parent current align-items value.\njustify-self originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/j/justify-self/",
-          "publishedOn": "2026-04-08T18:41:38.000Z",
-          "wordCount": 5415,
-          "title": "justify-self",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6557,
+          "wordCount": 6534,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -204,7 +204,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4613,
+          "wordCount": null,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -234,7 +234,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4154,
+          "wordCount": 4145,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -249,7 +249,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4703,
+          "wordCount": 4698,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -279,7 +279,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6607,
+          "wordCount": 6596,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -295,6 +295,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69f487c41637663d8b07deab",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Rachel An Fernandez. She's a computer science student at Stanford and the youngest instructor at the entire university. She recently helped organize TreeHacks, Stanford'",
+          "link": "https://www.freecodecamp.org/news/stanford-s-youngest-instructor-talks-infosec-ai-and-catching-cheaters-rachel-fernandez-interview-podcast-217/",
+          "publishedOn": "2026-05-01T11:00:00.000Z",
+          "wordCount": 1271,
+          "title": "Stanford's youngest instructor talks InfoSec, AI, and catching cheaters - Rachel Fernandez interview [Podcast #217]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/ec336e48-f060-4031-b4c3-dc25ec839c38.jpg"
+        },
         {
           "id": "69f3df46909e64ad07425413",
           "author": "Rudrendu Paul",
@@ -384,16 +394,6 @@
           "wordCount": 2753,
           "title": "How to Deploy a Full-Stack Next.js App on Cloudflare Workers with GitHub Actions CI/CD",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cbb9e559-baa7-452c-992a-3416041712ad.png"
-        },
-        {
-          "id": "69f213e46e0124c05e19e1af",
-          "author": "Michael Okolo",
-          "description": "Have you ever wondered how platforms like Webflow, Notion, or Hashnode serve thousands of users from a single codebase — each with their own unique URL? The answer is multi-tenancy: an architecture wh",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-platform-with-next-js-express-and-prisma/",
-          "publishedOn": "2026-04-29T14:21:24.000Z",
-          "wordCount": 4835,
-          "title": "How to Build a Multi-Tenant SaaS Platform with Next.js, Express, and Prisma",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ef0c87aa-4455-4230-9669-bf2c13db9947.png"
         }
       ]
     }
