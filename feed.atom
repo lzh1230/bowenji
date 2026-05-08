@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T12:26:07.157Z</id>
+    <id>urn:2026-05-08T12:06:20.704Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T12:26:07.157Z</updated>
+    <updated>2026-05-08T12:06:20.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Live Options Database in Python – A Complete Guide]]></title>
+        <id>69fd19789f93a850a43041c9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-live-options-database-in-python-a-complete-guide/"/>
+        <updated>2026-05-07T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Live options analytics change constantly. Implied volatility shifts, Greeks drift, and the shape of the surface can look different even a few minutes later. But a lot of teams still treat these number]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate to S3 Native State Locking in Terraform]]></title>
+        <id>69fd19239f93a850a430069b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-migrate-to-s3-native-state-locking-in-terraform/"/>
+        <updated>2026-05-07T22:58:43.000Z</updated>
+        <summary type="html"><![CDATA[If you've been running Terraform on AWS for any length of time, you know the setup: an S3 bucket for state storage, a DynamoDB table for state locking, and a handful of IAM policies tying them togethe]]></summary>
+        <author>
+            <name>Tolani Akintayo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use SCons to Build Software Projects [Full Handbook]]]></title>
+        <id>69fd02969f93a850a41cccc2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-scons-to-build-software-projects-full-handbook/"/>
+        <updated>2026-05-07T21:22:30.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wrestled with Makefile syntax, fought tab-versus-spaces bugs, or tried to make a build system work across Linux, macOS, and Windows, SCons is worth your attention. It replaces Make, aut]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Scrollytelling Gift for Mum on Mother’s Day 2026]]></title>
+        <id>https://css-tricks.com/?p=394649</id>
+        <link href="https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/"/>
+        <updated>2026-05-07T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.
+A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Open Source LLMs Locally and in the Cloud]]></title>
+        <id>69fc99c59f93a850a4d15442</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-and-in-the-cloud/"/>
+        <updated>2026-05-07T13:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to work with a wide range of open large language models (LLMs) such as Gemma, Kimmy, and GLM across various local and cloud-based environments. We just posted a course on the freeCodeCamp.or]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QuRT: The Real-Time OS Inside Your Phone's Processor [Full Handbook]]]></title>
         <id>69fbcaed50ecad4533880efa</id>
@@ -97,46 +148,6 @@ Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten a
         <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Scoped Note-Taking API with Django Rest Framework and SimpleJWT]]></title>
-        <id>69fa4395a386d7f121cd3bfc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-scoped-note-taking-api-with-django-rest-framework-and-simplejwt/"/>
-        <updated>2026-05-05T19:23:01.000Z</updated>
-        <summary type="html"><![CDATA[If you've built a Django API and you're wondering how to add authentication so that each user can only access their own data, you're in the right place. Most Django tutorials teach you session-based a]]></summary>
-        <author>
-            <name>Prabodh Tuladhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete SOC 2 Type II Implementation Handbook for Engineers: A Month-by-Month Roadmap with Real Commands]]></title>
-        <id>69fa364da386d7f121c468af</id>
-        <link href="https://www.freecodecamp.org/news/the-complete-soc-2-type-ii-implementation-guide-for-engineers/"/>
-        <updated>2026-05-05T18:26:21.000Z</updated>
-        <summary type="html"><![CDATA[If your team is preparing for a SOC 2 Type II review, this handbook is for you. It's a self-contained guide to the exact 90-day timeline, 14 critical controls, and evidence collection infrastructure t]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering the JavaScript Event Loop]]></title>
-        <id>69fa2435a386d7f121b7c4af</id>
-        <link href="https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/"/>
-        <updated>2026-05-05T17:09:09.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is famously single-threaded, yet it powers highly complex, interactive web applications without freezing up. How is this possible? The answer lies in the Event Loop. The Event Loop is a cor]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Insights: Why the Mean Lies When Handling Messy Retail Data]]></title>
-        <id>69fa21e5a386d7f121b5fe8c</id>
-        <link href="https://www.freecodecamp.org/news/data-science-insights-why-the-mean-lies-when-handling-messy-retail-data/"/>
-        <updated>2026-05-05T16:59:17.000Z</updated>
-        <summary type="html"><![CDATA[In our daily life, we use the word "average" all the time: average salary, average marks, average age, and so on. Let's take the case of a retail shop. If we're looking at the average order value to u]]></summary>
-        <author>
-            <name>Rakshath Naik</name>
         </author>
     </entry>
     <entry>
@@ -329,17 +340,6 @@ A Well-Designed JavaScript Module System is Your First Architecture Decision ori
 hypot() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Radio State Machine]]></title>
-        <id>https://css-tricks.com/?p=393344</id>
-        <link href="https://css-tricks.com/the-radio-state-machine/"/>
-        <updated>2026-04-14T13:55:38.000Z</updated>
-        <summary type="html"><![CDATA[One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.
-The Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
     <entry>
