@@ -189,7 +189,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8655,
+          "wordCount": 8645,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -204,7 +204,7 @@
           "description": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
           "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
           "publishedOn": "2026-05-05T08:00:00.000Z",
-          "wordCount": 3952,
+          "wordCount": null,
           "title": "Rethinking The Experience Of System Tools",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
@@ -219,7 +219,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6543,
+          "wordCount": 6542,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -234,7 +234,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4615,
+          "wordCount": 4611,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -249,7 +249,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4599,
+          "wordCount": 4615,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -264,7 +264,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4157,
+          "wordCount": 4148,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -287,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/legacy-systems/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/04/legacy-systems/",
-          "publishedOn": "2026-04-10T13:00:00.000Z",
-          "wordCount": 4206,
-          "title": "How To Improve UX In Legacy Systems",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg"
         }
       ]
     },
