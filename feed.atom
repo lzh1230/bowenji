@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-12T13:01:36.095Z</id>
+    <id>urn:2026-05-13T13:07:50.031Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T13:01:36.095Z</updated>
+    <updated>2026-05-13T13:07:50.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Soon We Can Finally Banish JavaScript to the ShadowRealm]]></title>
+        <id>https://css-tricks.com/?p=393604</id>
+        <link href="https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/"/>
+        <updated>2026-05-12T13:59:35.000Z</updated>
+        <summary type="html"><![CDATA[The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.
+Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation with Synthetic Control: Causal Inference for Global LLM Rollouts in Python]]></title>
         <id>6a02b2a8937b84f7790d481e</id>
@@ -329,17 +340,6 @@ Markdown + Astro = ❤️ originally handwritten and published with love on CSS-
 What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Well-Designed JavaScript Module System is Your First Architecture Decision]]></title>
-        <id>https://css-tricks.com/?p=392882</id>
-        <link href="https://css-tricks.com/the-javascript-module-system-architecture/"/>
-        <updated>2026-04-16T13:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.
-A Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amejimaobari Victor</name>
         </author>
     </entry>
 </feed>
