@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-18T14:26:24.888Z</id>
+    <id>urn:2026-05-19T13:52:23.291Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T14:26:24.888Z</updated>
+    <updated>2026-05-19T13:52:23.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Language Models are Few-Shot Learners (GPT-3)]]></title>
+        <id>6a0b76a04e81b730489aea6f</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-language-models-are-few-shot-learners-gpt-3/"/>
+        <updated>2026-05-18T20:29:20.000Z</updated>
+        <summary type="html"><![CDATA[After GPT-2, it became clear that language models could do much more than researchers originally expected. Simply training a model to predict the next word had already started producing surprising abi]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross-Document View Transitions: The Gotchas Nobody Mentions]]></title>
         <id>https://css-tricks.com/?p=393399</id>
@@ -201,16 +211,6 @@ Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten 
         <summary type="html"><![CDATA[You've probably seen the demos. A Flutter app, a text field, and a few lines calling the Gemini API – and out comes something that feels like magic. The audience applauds. Your product manager is alre]]></summary>
         <author>
             <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF to Image Converter Using JavaScript]]></title>
-        <id>6a024b87fca21b0d4b6cbcd9</id>
-        <link href="https://www.freecodecamp.org/news/pdf-to-image-converter/"/>
-        <updated>2026-05-11T21:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Whether it’s invoices, scanned documents, reports, certificates, or receipts, users often need to convert PDF pages into image files quickly. Modern browsers make this much easier than before. Instead]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
