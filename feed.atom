@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-25T13:56:20.188Z</id>
+    <id>urn:2026-05-26T13:50:10.940Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T13:56:20.188Z</updated>
+    <updated>2026-05-26T13:50:10.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
+        <id>https://css-tricks.com/?p=395048</id>
+        <link href="https://css-tricks.com/technical-writing-in-the-ai-age/"/>
+        <updated>2026-05-26T13:49:28.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t coming out of nowhere:
+My apathy levels for the industry are absolutely sky high and I don’t even have a dickhead boss making me hit token targets
+— Andy Bell (@bell.bz) 2026-05-19T18:23:42.034Z
+
+
+More and more people I deeply 
+…
+Technical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
         <id>https://css-tricks.com/?p=393441</id>
@@ -299,17 +316,6 @@ As a Chrome user, you’ll have received Gemini Nano in the form of a 4GB trans
 Google’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Zigzag CSS Layouts With a Grid + Transform Trick]]></title>
-        <id>https://css-tricks.com/?p=393013</id>
-        <link href="https://css-tricks.com/zigzag-css-grid-layouts/"/>
-        <updated>2026-05-06T13:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.
-Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
         </author>
     </entry>
     <entry>
