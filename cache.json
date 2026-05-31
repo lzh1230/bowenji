@@ -7,17 +7,194 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=395357",
+          "author": "Daniel Schwarz",
+          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-12/",
+          "publishedOn": "2026-05-29T13:25:38.000Z",
+          "wordCount": 3479,
+          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393536",
+          "author": "Preethi",
+          "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
+          "publishedOn": "2026-05-27T12:37:33.000Z",
+          "wordCount": 3508,
+          "title": "Revealing Text With CSS letter-spacing",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395048",
+          "author": "Geoff Graham",
+          "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
+          "publishedOn": "2026-05-26T13:49:28.000Z",
+          "wordCount": 5846,
+          "title": "Technical Writing in the AI Age",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393441",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\nCross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+          "publishedOn": "2026-05-25T13:46:54.000Z",
+          "wordCount": 6436,
+          "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/dots-loader.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394429",
+          "author": "Temani Afif",
+          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+          "publishedOn": "2026-05-22T13:44:40.000Z",
+          "wordCount": 5423,
+          "title": "The State of CSS Centering in 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393076",
+          "author": "Sunkanmi Fafowora",
+          "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
+          "publishedOn": "2026-05-20T13:51:34.000Z",
+          "wordCount": 4779,
+          "title": "Stack Overflow: When We Stop Asking",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393399",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+          "publishedOn": "2026-05-18T13:47:19.000Z",
+          "wordCount": 6680,
+          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394879",
+          "author": "Daniel Schwarz",
+          "description": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-11/",
+          "publishedOn": "2026-05-15T13:16:34.000Z",
+          "wordCount": 3588,
+          "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393498",
+          "author": "Preethi",
+          "description": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
+          "publishedOn": "2026-05-14T14:05:01.000Z",
+          "wordCount": 3959,
+          "title": "Computing and Displaying Discounted Prices in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393625",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
+          "publishedOn": "2026-05-13T14:36:54.000Z",
+          "wordCount": 4586,
+          "title": "rotateX()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393615",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
+          "publishedOn": "2026-05-13T14:33:58.000Z",
+          "wordCount": 4682,
+          "title": "rotateY()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393630",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
+          "publishedOn": "2026-05-13T14:33:03.000Z",
+          "wordCount": 3929,
+          "title": "rotateZ()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393611",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotate/",
+          "publishedOn": "2026-05-13T14:32:47.000Z",
+          "wordCount": 4131,
+          "title": "rotate()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393604",
+          "author": "Mat Marquis",
+          "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+          "publishedOn": "2026-05-12T13:59:35.000Z",
+          "wordCount": 5464,
+          "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393431",
+          "author": "Daniel Schwarz",
+          "description": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+          "publishedOn": "2026-05-08T13:54:10.000Z",
+          "wordCount": 4375,
+          "title": "Using CSS corner-shape For Folded Corners",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/corner-shape-fold-5-1.mp4",
+            "length": "350278",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png"
+        }
+      ]
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+          "publishedOn": "2026-05-31T08:00:00.000Z",
+          "wordCount": 5527,
+          "title": "June Is For Exploring (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "author": "hello@smashingmagazine.com (Durgesh Pawar)",
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5660,
+          "wordCount": 5664,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -62,7 +239,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4905,
+          "wordCount": 4896,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -77,7 +254,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4913,
+          "wordCount": 4912,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -92,7 +269,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6270,
+          "wordCount": 6262,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -107,7 +284,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8753,
+          "wordCount": 8648,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -130,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
-          "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-          "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6545,
-          "title": "Designing Stable Interfaces For Streaming Content",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
         }
       ]
     },
