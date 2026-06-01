@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-31T12:07:14.133Z</id>
+    <id>urn:2026-06-01T16:34:34.096Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-31T12:07:14.133Z</updated>
+    <updated>2026-06-01T16:34:34.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
+        <id>https://css-tricks.com/?p=392775</id>
+        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
+        <updated>2026-06-01T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
+Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
+Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[June Is For Exploring (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/</id>
@@ -327,17 +339,6 @@ rotate() originally handwritten and published with love on CSS-Tricks. You shoul
 Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
-        <id>https://css-tricks.com/?p=393431</id>
-        <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
-        <updated>2026-05-08T13:54:10.000Z</updated>
-        <summary type="html"><![CDATA[I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.
-Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
