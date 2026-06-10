@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-09T13:40:42.680Z</id>
+    <id>urn:2026-06-10T14:19:08.601Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T13:40:42.680Z</updated>
+    <updated>2026-06-10T14:19:08.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
+        <id>https://css-tricks.com/?p=393676</id>
+        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
+        <updated>2026-06-10T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
+Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Source Tools Every STEM Student Should Know About]]></title>
         <id>6a27af485df8cf4edcb24d9b</id>
@@ -319,17 +330,6 @@ Stack Overflow: When We Stop Asking originally handwritten and published with lo
 Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
-        <id>https://css-tricks.com/?p=394879</id>
-        <link href="https://css-tricks.com/whats-important-11/"/>
-        <updated>2026-05-15T13:16:34.000Z</updated>
-        <summary type="html"><![CDATA[If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.
-What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
