@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395752",
+          "author": "Daniel Schwarz",
+          "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-13/",
+          "publishedOn": "2026-06-15T13:15:33.000Z",
+          "wordCount": 3500,
+          "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395594",
           "author": "Sunkanmi Fafowora",
           "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
           "publishedOn": "2026-06-12T15:09:00.000Z",
-          "wordCount": 3901,
+          "wordCount": 4019,
           "title": "Why Isn’t My 3D View Transition Working?",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
@@ -170,16 +180,6 @@
           "wordCount": 6436,
           "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/dots-loader.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394429",
-          "author": "Temani Afif",
-          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-          "publishedOn": "2026-05-22T13:44:40.000Z",
-          "wordCount": 5484,
-          "title": "The State of CSS Centering in 2026",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
         }
       ]
     },
@@ -194,7 +194,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4922,
+          "wordCount": 4810,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -209,7 +209,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5762,
+          "wordCount": 5758,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -239,7 +239,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5630,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -254,7 +254,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5662,
+          "wordCount": 5657,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -299,7 +299,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4904,
+          "wordCount": 4905,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -316,6 +316,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a2fef02af88b2b9b6fa784b",
+          "author": "Beau Carnes",
+          "description": "Learn how how to build a fully autonomous, self-healing CI/CD pipeline from scratch with a new course we just posted on the freeCodeCamp.org YouTube channel. Farzeen Ali developed this course. In this",
+          "link": "https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/",
+          "publishedOn": "2026-06-15T12:24:34.000Z",
+          "wordCount": 1093,
+          "title": "Build a Self-Healing CI/CD Pipeline with AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/045067c8-d191-4677-b026-f7e876944bd6.jpg"
+        },
+        {
           "id": "6a2e0f54136fd4eb2c9cc925",
           "author": "Manish Shivanandhan",
           "description": "For years, developers have debated which technology stack was best for building websites. Some preferred React. Others chose Vue, Angular, Svelte, or server-side frameworks such as Laravel and Django.",
@@ -331,7 +341,7 @@
           "description": "When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text",
           "link": "https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/",
           "publishedOn": "2026-06-14T02:06:42.000Z",
-          "wordCount": 4005,
+          "wordCount": 3986,
           "title": "How to Run Private Text-to-Speech on Your Own Hardware Using QVAC",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ac11484-05eb-4e59-9d35-f2bad4d1d730.png"
         },
@@ -404,16 +414,6 @@
           "wordCount": 5695,
           "title": "From Flutter to Backend: How to Build Production-Grade REST APIs with Dart and Dart Frog",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a80b24db-c53e-4d36-85cd-0cb999676145.png"
-        },
-        {
-          "id": "6a2b48a3a381db4fd3f61555",
-          "author": "Olamilekan Lamidi",
-          "description": "Your first scaling problem rarely arrives with a bang. For a while, everything is fine: pages load fast, the database barely breaks a sweat, and the team ships features without thinking much about inf",
-          "link": "https://www.freecodecamp.org/news/how-to-scale-laravel-applications-for-high-traffic-production-systems/",
-          "publishedOn": "2026-06-11T23:45:39.000Z",
-          "wordCount": 5395,
-          "title": "How to Scale Laravel Applications for High-Traffic Production Systems",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8882176c-0420-4fc9-8d72-129640aac231.png"
         }
       ]
     }
