@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-28T12:13:44.840Z</id>
+    <id>urn:2026-06-29T14:43:52.157Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T12:13:44.840Z</updated>
+    <updated>2026-06-29T14:43:52.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
+        <id>https://css-tricks.com/?p=395223</id>
+        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
+        <updated>2026-06-29T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
+The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Personal AI Web Research Agent with Ollama and Qwen]]></title>
         <id>6a3ebfce33b56590aa5b54c9</id>
@@ -289,18 +300,6 @@ Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally 
 Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Antoine Villepreux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[offset-path]]></title>
-        <id>http://css-tricks.com/?page_id=243521</id>
-        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
-        <updated>2026-06-03T15:02:38.000Z</updated>
-        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
-This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
-offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
