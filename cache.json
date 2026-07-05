@@ -7,193 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=395894",
-          "author": "Daniel Schwarz",
-          "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-14/",
-          "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 3618,
-          "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
-            "length": "35551592",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395223",
-          "author": "Daniel Schwarz",
-          "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-states-and-javascript-events/",
-          "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 4749,
-          "title": "The Shifting Line Between CSS States and JavaScript Events",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394786",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-          "publishedOn": "2026-06-25T13:18:56.000Z",
-          "wordCount": 4266,
-          "title": "translateZ()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393249",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-          "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 4141,
-          "title": "translateY()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393255",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-          "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 4355,
-          "title": "translateX()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393233",
-          "author": "Gabriel Shoyombo",
-          "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translate/",
-          "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 4227,
-          "title": "translate()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394890",
-          "author": "Silvestar Bistrović",
-          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-          "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 4679,
-          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
-            "length": "38364603",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394364",
-          "author": "Daniel Schwarz",
-          "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-          "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 4718,
-          "title": "A First Look at Scroll-Triggered Animations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
-            "length": "515618",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/sceroll-triggered-squares.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395567",
-          "author": "Mat Marquis",
-          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-          "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 5670,
-          "title": "The Siren Song of ariaNotify()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395776",
-          "author": "Geoff Graham",
-          "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/prop-for-that/",
-          "publishedOn": "2026-06-16T18:36:25.000Z",
-          "wordCount": 2876,
-          "title": "Prop For That",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395752",
-          "author": "Daniel Schwarz",
-          "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-13/",
-          "publishedOn": "2026-06-15T13:15:33.000Z",
-          "wordCount": 3501,
-          "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395594",
-          "author": "Sunkanmi Fafowora",
-          "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-          "publishedOn": "2026-06-12T15:09:00.000Z",
-          "wordCount": 4020,
-          "title": "Why Isn’t My 3D View Transition Working?",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
-            "length": "2984445",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/cover.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395744",
-          "author": "Geoff Graham",
-          "description": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-          "publishedOn": "2026-06-12T15:08:38.000Z",
-          "wordCount": 2785,
-          "title": "There’s no need to include ‘navigation’ in your navigation labels",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393676",
-          "author": "Mariana Beldi",
-          "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-          "publishedOn": "2026-06-10T13:02:10.000Z",
-          "wordCount": 5146,
-          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
-            "length": "8810169",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393503",
-          "author": "Geoff Graham",
-          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-          "publishedOn": "2026-06-08T13:00:34.000Z",
-          "wordCount": 3362,
-          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
-            "length": "3122373",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -219,7 +32,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7065,
+          "wordCount": 7069,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -249,7 +62,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4835,
+          "wordCount": 4829,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -279,7 +92,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4913,
+          "wordCount": 4801,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -294,7 +107,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5752,
+          "wordCount": 5757,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
