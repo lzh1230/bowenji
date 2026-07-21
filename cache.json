@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=244261",
+          "author": "Mojtaba Seyedi",
+          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+          "publishedOn": "2026-07-21T09:39:10.000Z",
+          "wordCount": 3045,
+          "title": "writing-mode",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
           "id": "http://css-tricks.com/?page_id=18170",
           "author": "Mojtaba Seyedi",
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -169,7 +179,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5404,
+          "wordCount": 5409,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -229,7 +239,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7061,
+          "wordCount": 7058,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -259,7 +269,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4825,
+          "wordCount": 4815,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -276,6 +286,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a5e9c35892c69a16fdf27df",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin",
+          "link": "https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/",
+          "publishedOn": "2026-07-20T22:07:49.000Z",
+          "wordCount": 3107,
+          "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e5bf4093-e618-4388-954c-f1a49bc87cfe.png"
+        },
+        {
+          "id": "6a5e92afe12aa31dae6e8a79",
+          "author": "Balogun Wahab",
+          "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
+          "link": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
+          "publishedOn": "2026-07-20T21:27:11.000Z",
+          "wordCount": 4054,
+          "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f0e2343-7394-46b5-a4c8-3ef0fecfa57a.png"
+        },
+        {
+          "id": "6a5e89d9dfc3c99e37bbdef0",
+          "author": "Gopinath Karunanithi",
+          "description": "In this article, you'll learn how to optimize SQL Server performance using T-SQL query tuning, indexing strategies, execution plans, and real-world optimization techniques for enterprise applications.",
+          "link": "https://www.freecodecamp.org/news/optimize-enterprise-app-performance-with-t-sql-query-tuning-and-indexing-strategies/",
+          "publishedOn": "2026-07-20T20:49:29.000Z",
+          "wordCount": 4998,
+          "title": "How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1df4fdd1-4c5d-4f0b-a0e6-f40a75de6a8e.png"
+        },
+        {
+          "id": "6a5e89518186f4c5817d466b",
+          "author": "Bhavin Sheth",
+          "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
+          "link": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
+          "publishedOn": "2026-07-20T20:47:13.000Z",
+          "wordCount": 7873,
+          "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/175ab1f9-2917-4588-9e67-50607f6fa5a1.png"
+        },
+        {
+          "id": "6a5e8914bc397f89a942b88b",
+          "author": "Zia Ullah",
+          "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
+          "publishedOn": "2026-07-20T20:46:12.000Z",
+          "wordCount": 5003,
+          "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/69793fe0-fe0e-4c9c-839d-12a134f65287.png"
+        },
+        {
+          "id": "6a5e88ed780db2fa84ad0b48",
+          "author": "Shradha Puri",
+          "description": "Health data is having a moment. Of all the metrics receiving the most developer interest at present, there’s nothing like heart rate variability (HRV). It’s a feature found on every major SDK for wear",
+          "link": "https://www.freecodecamp.org/news/hrv-data-is-everywhere-here-s-what-it-actually-means/",
+          "publishedOn": "2026-07-20T20:45:33.000Z",
+          "wordCount": 2193,
+          "title": "HRV Data Is Everywhere. Here's What It Actually Means",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/75ed57eb-f77b-4055-bb26-4bdc2eaa7bd4.png"
+        },
+        {
+          "id": "6a5e53d62305696f1e91f721",
+          "author": "Omer Rosenbaum",
+          "description": "It's mid 2026, and the best frontier models out there still hallucinate. I want you to gain two things from reading this article: understanding that AI hallucinations are still real and possibly harmf",
+          "link": "https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/",
+          "publishedOn": "2026-07-20T16:59:02.000Z",
+          "wordCount": 5249,
+          "title": "That's Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8813b1ba-d75c-4c3d-90a1-504af66cce3b.png"
+        },
+        {
+          "id": "6a5e283ee7616f5097f7d096",
+          "author": "Manish Shivanandhan",
+          "description": "Software engineers often think reliability is a modern challenge. We discuss uptime, distributed systems, observability, and fault tolerance as if they belong exclusively to cloud computing. In realit",
+          "link": "https://www.freecodecamp.org/news/from-manufacturing-to-microservices-universal-lessons-about-reliability/",
+          "publishedOn": "2026-07-20T13:53:02.000Z",
+          "wordCount": 2287,
+          "title": "From Manufacturing to Microservices: Universal Lessons About Reliability",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0de496b0-e02a-48c2-9631-d32a5152d766.png"
+        },
+        {
+          "id": "6a5e27b295e748bed9510853",
+          "author": "Zia Ullah",
+          "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
+          "publishedOn": "2026-07-20T13:50:42.000Z",
+          "wordCount": 4922,
+          "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5491b408-9c6b-4d4d-a53e-215119fb2d97.png"
+        },
+        {
           "id": "6a5a98bcef0967f8fb858895",
           "author": "Darsh Shah",
           "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
@@ -284,96 +384,6 @@
           "wordCount": 3089,
           "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/43678778-ab94-4ad0-92af-888376bea668.png"
-        },
-        {
-          "id": "6a5a91c20842ed39785bc7c0",
-          "author": "jabo Landry",
-          "description": "Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or",
-          "link": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
-          "publishedOn": "2026-07-17T20:34:10.000Z",
-          "wordCount": 2992,
-          "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e929b316-4b85-459b-9c40-1b7928518077.png"
-        },
-        {
-          "id": "6a5a91870c25cb6dfa32c0c9",
-          "author": "Bhavin Sheth",
-          "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
-          "link": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
-          "publishedOn": "2026-07-17T20:33:11.000Z",
-          "wordCount": 5603,
-          "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/18191d9d-9abf-44a3-8330-e452ce7194c2.png"
-        },
-        {
-          "id": "6a5a912d1a97bb513c72431e",
-          "author": "Ayobami Adejumo",
-          "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
-          "publishedOn": "2026-07-17T20:31:41.000Z",
-          "wordCount": 6319,
-          "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e45df2a-5af9-4feb-84fa-f7eb1c04ee91.png"
-        },
-        {
-          "id": "6a5a5daeee4c6fc82387d36e",
-          "author": "Jibril-M🍀",
-          "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
-          "link": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
-          "publishedOn": "2026-07-17T16:51:58.000Z",
-          "wordCount": 4163,
-          "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/89b0a610-cd98-4112-95cc-fb01597911dc.png"
-        },
-        {
-          "id": "6a59619ee14c719ac88d7a33",
-          "author": "Md Tarikul Islam",
-          "description": "In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
-          "publishedOn": "2026-07-16T22:56:30.000Z",
-          "wordCount": 4540,
-          "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/665e54b7-b47e-4abe-a417-49b51569868f.png"
-        },
-        {
-          "id": "6a59593c2c971321745e7720",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
-          "link": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
-          "publishedOn": "2026-07-16T22:20:44.000Z",
-          "wordCount": 6950,
-          "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0621293d-e82e-4f24-bb6e-40dec481c7cd.png"
-        },
-        {
-          "id": "6a58c2ecce2d9571ce9c8a00",
-          "author": "Beau Carnes",
-          "description": "Have you been wanting to learn how to code but found it a bit too overwhelming or confusing? We just published a brand new course on the freeCodeCamp.org YouTube channel that is designed specifically",
-          "link": "https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/",
-          "publishedOn": "2026-07-16T11:39:24.000Z",
-          "wordCount": 1130,
-          "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/11759acb-ceeb-43b9-9b10-8abe0bba7590.jpg"
-        },
-        {
-          "id": "6a58c1f600ad718fe90bfe7d",
-          "author": "Beau Carnes",
-          "description": "Are you ready to unlock the true rendering power of your computer and create breathtaking visuals? We just published a new course on the freeCodeCamp.org YouTube channel that will teach you the fundam",
-          "link": "https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/",
-          "publishedOn": "2026-07-16T11:35:18.000Z",
-          "wordCount": 1127,
-          "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/bfb3c226-4906-49bb-9a6b-c75652ec147e.jpg"
-        },
-        {
-          "id": "6a58c1695b624eb755f699d2",
-          "author": "Beau Carnes",
-          "description": "Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build",
-          "link": "https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/",
-          "publishedOn": "2026-07-16T11:32:57.000Z",
-          "wordCount": 1143,
-          "title": "Master Full-Stack Mobile Development with React Native",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/823b7020-e45c-499e-99d2-d7324fbb2533.jpg"
         }
       ]
     }
