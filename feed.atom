@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-21T12:20:23.926Z</id>
+    <id>urn:2026-07-22T12:22:53.872Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T12:20:23.926Z</updated>
+    <updated>2026-07-22T12:22:53.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["Relaxation and its Role in Vision": The 1977 PhD Thesis That Helped Shape Modern AI Research]]></title>
+        <id>6a5faeb5d735fe8d9b8a5d84</id>
+        <link href="https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/"/>
+        <updated>2026-07-21T17:39:01.000Z</updated>
+        <summary type="html"><![CDATA[When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
+        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
+        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
+        <updated>2026-07-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[writing-mode]]></title>
         <id>http://css-tricks.com/?page_id=244261</id>
@@ -108,16 +128,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         <summary type="html"><![CDATA[Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s]]></summary>
         <author>
             <name>Zia Ullah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python]]></title>
-        <id>6a5a98bcef0967f8fb858895</id>
-        <link href="https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/"/>
-        <updated>2026-07-17T21:03:56.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule]]></summary>
-        <author>
-            <name>Darsh Shah</name>
         </author>
     </entry>
     <entry>
@@ -307,19 +317,6 @@ translateX() originally handwritten and published with love on CSS-Tricks. You s
 translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
-        <id>https://css-tricks.com/?p=394890</id>
-        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
-        <updated>2026-06-22T12:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
-CodePen Embed Fallback
-Note: This …
-Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
         </author>
     </entry>
 </feed>
