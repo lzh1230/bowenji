@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-23T12:20:19.212Z</id>
+    <id>urn:2026-07-24T12:15:13.563Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T12:20:19.212Z</updated>
+    <updated>2026-07-24T12:15:13.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers]]></title>
+        <id>6a62a069f97a6bd65ce3cd8f</id>
+        <link href="https://www.freecodecamp.org/news/how-clients-and-servers-communicate-handbook-http-rest-websockets-graphql-grpc-protobuf/"/>
+        <updated>2026-07-23T23:14:49.000Z</updated>
+        <summary type="html"><![CDATA[You've built and consumed APIs. You know what a GET request is, what a JSON response looks like, and how to add an Authorization header. You've used REST, maybe tried GraphQL, and perhaps heard of gRP]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering]]></title>
+        <id>6a624877953fb9a0375f9238</id>
+        <link href="https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/"/>
+        <updated>2026-07-23T16:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Agent Coding & Deployment with TRAE IDE]]></title>
+        <id>6a6213bd6b556b99a0ec5466</id>
+        <link href="https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/"/>
+        <updated>2026-07-23T13:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Certified Architect – Foundations: Prep for Anthropic's New Certification Exam]]></title>
+        <id>6a62129c3b9d6ffafc6bca6d</id>
+        <link href="https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam/"/>
+        <updated>2026-07-23T13:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is expanding its official certification ecosystem, and advanced practitioners now have a dedicated path to validate their expertise with the release of the Claude Certified Architect – Found]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an Apple Engineer Pranked Billion-Dollar Lawyers (and Won)]]></title>
+        <id>6a6211a0796e2bb162a4809c</id>
+        <link href="https://www.freecodecamp.org/news/how-an-apple-engineer-pranked-billion-dollar-lawyers-and-won/"/>
+        <updated>2026-07-23T13:05:36.000Z</updated>
+        <summary type="html"><![CDATA[What happens when an engineer gets fed up with corporate lawyers breathing down their neck? Sometimes, you get an inside joke that quietly ships to millions of machines and survives for over three dec]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)]]></title>
         <id>6a614f37a80e58ea2984c135</id>
@@ -53,56 +103,6 @@
         <summary type="html"><![CDATA[Retrieval-Augmented Generation, commonly known as RAG, has become one of the most widely used approaches for building applications with large language models. Instead of asking an LLM to answer entire]]></summary>
         <author>
             <name>Sameer Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript]]></title>
-        <id>6a61266b62f25d8178b980e0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/"/>
-        <updated>2026-07-22T20:22:03.000Z</updated>
-        <summary type="html"><![CDATA[When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change ("move this bull]]></summary>
-        <author>
-            <name>timothy ogbemudia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Trace and Monitor AI Agents with LangSmith]]></title>
-        <id>6a611eaea47daf82ec9372d6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-trace-and-monitor-ai-agents-with-langsmith/"/>
-        <updated>2026-07-22T19:49:02.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to trace and monitor a local AI agent with LangSmith. We'll build a small local AI agent and then enable LangSmith tracing for it so that we can inspect model calls]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI]]></title>
-        <id>6a60f5843dee1fe3a0faaca9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/"/>
-        <updated>2026-07-22T16:53:24.000Z</updated>
-        <summary type="html"><![CDATA[Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reusable Date-Time Picker in React with shadcn/ui]]></title>
-        <id>6a60f42cb1ecbbb606535a7b</id>
-        <link href="https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/"/>
-        <updated>2026-07-22T16:47:40.000Z</updated>
-        <summary type="html"><![CDATA[A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Feature With Gemini: A Practical Guide to Prompt Engineering for Developers]]></title>
-        <id>6a60f2e469bd57569d60caf9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-feature-with-gemini-a-practical-guide-to-prompt-engineering-for-developers/"/>
-        <updated>2026-07-22T16:42:12.000Z</updated>
-        <summary type="html"><![CDATA[Most prompt engineering tutorials follow the same shape. Install the SDK, paste your API key, call generateContent, and print the response. The model says something plausible and the tutorial ends. Th]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
