@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T11:41:54.438Z</id>
+    <id>urn:2026-08-13T11:41:15.060Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T11:41:54.438Z</updated>
+    <updated>2026-08-13T11:41:15.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript]]></title>
+        <id>6a7d0b557863edaa10c98875</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/"/>
+        <updated>2026-08-13T00:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution]]></title>
+        <id>6a7ce718716450a8062b0352</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/"/>
+        <updated>2026-08-12T21:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent with Per-User OAuth Access [Full Handbook]]]></title>
+        <id>6a7c95758a35a7792fd567c3</id>
+        <link href="https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/"/>
+        <updated>2026-08-12T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl]]></summary>
+        <author>
+            <name>Saif Ali Shaik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Filter Studio with JavaScript]]></title>
+        <id>6a7c94929716b929062beeb1</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/"/>
+        <updated>2026-08-12T15:43:14.000Z</updated>
+        <summary type="html"><![CDATA[PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
+        <id>https://css-tricks.com/?p=396255</id>
+        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
+        <updated>2026-08-12T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
+Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
         <id>6a7b522a304c202420dfd496</id>
@@ -98,26 +149,6 @@ SmashingConf Freiburg 2026, September 7-10 originally handwritten and published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add Dynamic Features to a Static Site Without a Server]]></title>
-        <id>6a79dc91e7c11cc73062288e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/"/>
-        <updated>2026-08-10T14:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test AI Features in Flutter [Full Handbook]]]></title>
-        <id>6a76024b50cf2dad7c8ef8c3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/"/>
-        <updated>2026-08-07T16:05:31.000Z</updated>
-        <summary type="html"><![CDATA[You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
         <id>https://css-tricks.com/?p=394753</id>
         <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
@@ -136,26 +167,6 @@ Using and Styling the Dialog Element originally handwritten and published with l
         <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jad Joubran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Harden GitHub Actions Permissions with Least Privilege by Default]]></title>
-        <id>6a750fe5b844b68f80e06098</id>
-        <link href="https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/"/>
-        <updated>2026-08-06T22:51:17.000Z</updated>
-        <summary type="html"><![CDATA[When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis]]></summary>
-        <author>
-            <name>ILYAS RUFAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript]]></title>
-        <id>6a750800a316383dcb915436</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/"/>
-        <updated>2026-08-06T22:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -286,17 +297,6 @@ pointer-events originally handwritten and published with love on CSS-Tricks. You
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-14T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
