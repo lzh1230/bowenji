@@ -7,128 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=396545",
-          "author": "Geoff Graham",
-          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-          "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3586,
-          "title": "Dark mode toggles: two states are enough",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396557",
-          "author": "Daniel Schwarz",
-          "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-17/",
-          "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3535,
-          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396255",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
-          "publishedOn": "2026-08-12T13:43:56.000Z",
-          "wordCount": 11050,
-          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394978",
-          "author": "Preethi",
-          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/animating-css-border-image/",
-          "publishedOn": "2026-08-10T15:58:47.000Z",
-          "wordCount": 3834,
-          "title": "Animating CSS border-image",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396506",
-          "author": "Geoff Graham",
-          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-          "publishedOn": "2026-08-10T15:57:39.000Z",
-          "wordCount": 2698,
-          "title": "SmashingConf Freiburg 2026, September 7-10",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394753",
-          "author": "Geoff Graham",
-          "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-          "publishedOn": "2026-08-07T14:06:43.000Z",
-          "wordCount": 5473,
-          "title": "Using and Styling the Dialog Element",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396471",
-          "author": "Geoff Graham",
-          "description": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-          "publishedOn": "2026-08-06T15:54:52.000Z",
-          "wordCount": 3290,
-          "title": "2026 State of CSS, Devs Surveys",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396204",
-          "author": "Sam Davis Omekarajr",
-          "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-          "publishedOn": "2026-08-03T15:53:20.000Z",
-          "wordCount": 4587,
-          "title": "Gap Decorations Are Now Available, Here’s What’s New",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395508",
-          "author": "Temani Afif",
-          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-          "publishedOn": "2026-07-31T15:14:00.000Z",
-          "wordCount": 4886,
-          "title": "Get Ready For the Powerful CSS border-shape Property!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396295",
-          "author": "Daniel Schwarz",
-          "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-16/",
-          "publishedOn": "2026-07-31T14:06:21.000Z",
-          "wordCount": 3302,
-          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
-            "length": "219450",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=244261",
-          "author": "Mojtaba Seyedi",
-          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 4083,
-          "title": "writing-mode",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -169,7 +47,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6292,
+          "wordCount": 6288,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -184,7 +62,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4649,
+          "wordCount": 4645,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -199,7 +77,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5036,
+          "wordCount": 5025,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -222,21 +100,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8081,
-          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
         }
       ]
     },
@@ -245,6 +108,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a85bc8787783a8685665353",
+          "author": "Beau Carnes",
+          "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
+          "link": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
+          "publishedOn": "2026-08-19T14:24:07.000Z",
+          "wordCount": 1154,
+          "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e79ad075-fa06-4d0e-bc4a-ee1a8ecee9b1.jpg"
+        },
         {
           "id": "6a84d268fa401f6597cd200e",
           "author": "Vineeth Pawar",
@@ -334,16 +207,6 @@
           "wordCount": 10127,
           "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0e9a966-883b-463b-b560-09f3b4c57880.png"
-        },
-        {
-          "id": "6a7f3cb20046634bbe645e53",
-          "author": "Shradha Puri",
-          "description": "I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was",
-          "link": "https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/",
-          "publishedOn": "2026-08-14T16:05:06.000Z",
-          "wordCount": 2569,
-          "title": "Why Your Wearable Needs Weeks of Data Before It Becomes Useful",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c734589e-3fd6-4e8c-996d-743aa5be276e.png"
         }
       ]
     }
