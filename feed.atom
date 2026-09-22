@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-21T16:44:24.087Z</id>
+    <id>urn:2026-09-22T15:20:31.529Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T16:44:24.087Z</updated>
+    <updated>2026-09-22T15:20:31.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It]]></title>
+        <id>6ab19a268fed0cf1f0fe1645</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/"/>
+        <updated>2026-09-21T20:57:10.000Z</updated>
+        <summary type="html"><![CDATA[I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information]]></summary>
+        <author>
+            <name>brooklyn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)]]></title>
         <id>6ab11bd3c0a4b6fb82bc1891</id>
@@ -93,16 +103,6 @@
         <summary type="html"><![CDATA[Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users]]></summary>
         <author>
             <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
-        <id>6aac2aabd02a5d838577063a</id>
-        <link href="https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/"/>
-        <updated>2026-09-17T18:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Geoffrey Hinton is known as the "the Godfather of AI". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
