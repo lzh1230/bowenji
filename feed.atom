@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-01T17:13:09.250Z</id>
+    <id>urn:2026-10-02T16:26:58.382Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T17:13:09.250Z</updated>
+    <updated>2026-10-02T16:26:58.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate]]></title>
+        <id>6abf4b9d63317980cdaece08</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/"/>
+        <updated>2026-10-02T06:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that]]></summary>
+        <author>
+            <name>Ash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and Publish a Full-Stack Mobile App with AI]]></title>
+        <id>6abe78a1cc111926f9c7fc82</id>
+        <link href="https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/"/>
+        <updated>2026-10-01T15:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Your Android App from Draining the Battery with Wake Locks]]></title>
+        <id>6abe6aefe2bfb6c3545bb583</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/"/>
+        <updated>2026-10-01T14:15:11.000Z</updated>
+        <summary type="html"><![CDATA[A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab]]></title>
         <id>6abe3dc913d662f7af15bf03</id>
@@ -12,7 +42,7 @@
         <updated>2026-10-01T11:02:33.000Z</updated>
         <summary type="html"><![CDATA[You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po]]></summary>
         <author>
-            <name>praneethhere</name>
+            <name>Praneeth Kodumagulla</name>
         </author>
     </entry>
     <entry>
@@ -83,36 +113,6 @@
         <summary type="html"><![CDATA[Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to]]></summary>
         <author>
             <name>Bansidhar Kadiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Diagnose and Fix AI Inference Latency on Kubernetes]]></title>
-        <id>6abca2f9f944d026311c7f7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/"/>
-        <updated>2026-09-30T05:49:45.000Z</updated>
-        <summary type="html"><![CDATA[It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Algorithmic Trading with SnapTrade, Massive, Alpaca]]></title>
-        <id>6abbcab8bf5e373dfc4ceff1</id>
-        <link href="https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/"/>
-        <updated>2026-09-29T14:27:04.000Z</updated>
-        <summary type="html"><![CDATA[We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reliable AI Assistant with the Claude API]]></title>
-        <id>6abbc1526882db86928eaf11</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/"/>
-        <updated>2026-09-29T13:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
         </author>
     </entry>
     <entry>

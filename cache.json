@@ -23,7 +23,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4657,
+          "wordCount": 4652,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -38,7 +38,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5020,
+          "wordCount": 5016,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -53,7 +53,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5452,
+          "wordCount": 5443,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -68,7 +68,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4571,
+          "wordCount": 4569,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -85,12 +85,42 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6abf4b9d63317980cdaece08",
+          "author": "Ash",
+          "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
+          "link": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
+          "publishedOn": "2026-10-02T06:13:49.000Z",
+          "wordCount": 3116,
+          "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a6e5c1d7-5d61-4cc0-94d8-3a3e068d97e4.png"
+        },
+        {
+          "id": "6abe78a1cc111926f9c7fc82",
+          "author": "Beau Carnes",
+          "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
+          "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+          "publishedOn": "2026-10-01T15:13:37.000Z",
+          "wordCount": 1437,
+          "title": "Build and Publish a Full-Stack Mobile App with AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e3b03940-c761-4da1-9fe0-7ca07ec88550.png"
+        },
+        {
+          "id": "6abe6aefe2bfb6c3545bb583",
+          "author": "Nikheel Vishwas Savant",
+          "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
+          "publishedOn": "2026-10-01T14:15:11.000Z",
+          "wordCount": 5521,
+          "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f08ae713-8957-4954-b29f-0efc696b0de8.png"
+        },
+        {
           "id": "6abe3dc913d662f7af15bf03",
-          "author": "praneethhere",
+          "author": "Praneeth Kodumagulla",
           "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
           "link": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
           "publishedOn": "2026-10-01T11:02:33.000Z",
-          "wordCount": 3906,
+          "wordCount": 3989,
           "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3864c1c8-994c-4f98-9833-47a9bb34e15d.png"
         },
@@ -140,7 +170,7 @@
           "description": "What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha",
           "link": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
           "publishedOn": "2026-10-01T06:00:00.000Z",
-          "wordCount": 3791,
+          "wordCount": 3789,
           "title": "How CSS content-visibility Works and How It Can Improve Rendering Performance",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f11711dc-ac4a-43f0-b312-4d89c6f7f989.png"
         },
@@ -153,36 +183,6 @@
           "wordCount": 2521,
           "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d32feb51-3930-4bd7-be76-9a9150d069d1.png"
-        },
-        {
-          "id": "6abca2f9f944d026311c7f7b",
-          "author": "Gursimar Singh",
-          "description": "It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod",
-          "link": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
-          "publishedOn": "2026-09-30T05:49:45.000Z",
-          "wordCount": 5119,
-          "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ab24802-80a3-43bb-a432-28f18d1f777e.png"
-        },
-        {
-          "id": "6abbcab8bf5e373dfc4ceff1",
-          "author": "Beau Carnes",
-          "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
-          "link": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
-          "publishedOn": "2026-09-29T14:27:04.000Z",
-          "wordCount": 1359,
-          "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6fcf5557-9b44-40d4-93ec-bad5151625be.png"
-        },
-        {
-          "id": "6abbc1526882db86928eaf11",
-          "author": "Chidozie Managwu",
-          "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
-          "publishedOn": "2026-09-29T13:46:58.000Z",
-          "wordCount": 3312,
-          "title": "How to Build a Reliable AI Assistant with the Claude API",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4c96758-54f5-4b88-9f00-639ecff705f9.png"
         }
       ]
     }
