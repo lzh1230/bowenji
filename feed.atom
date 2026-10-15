@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-14T15:39:53.898Z</id>
+    <id>urn:2026-10-15T15:26:52.875Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T15:39:53.898Z</updated>
+    <updated>2026-10-15T15:26:52.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Give an AI Agent Safe Access to an Internal API with MCP]]></title>
+        <id>6ad05e6261108f0421f7f3d4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/"/>
+        <updated>2026-10-15T05:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa]]></summary>
+        <author>
+            <name>Harish Gaggar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure by Design: How to Engineer Security into Architecture Before Writing Any Code]]></title>
+        <id>6ad05dd81f613b7136df1683</id>
+        <link href="https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/"/>
+        <updated>2026-10-15T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js]]></title>
+        <id>6ad05935fb11435ce8281161</id>
+        <link href="https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/"/>
+        <updated>2026-10-15T04:40:21.000Z</updated>
+        <summary type="html"><![CDATA[At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a]]></summary>
+        <author>
+            <name>Alex Oliinyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
+        <id>6acfa07df5672c904a1a970e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/"/>
+        <updated>2026-10-14T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Keep a File for Minutes, Not Years, on Cloud Run]]></title>
         <id>6acf003cd00b1413f617c32e</id>
@@ -66,36 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
-        <id>6ac7b4efba111367663fc712</id>
-        <link href="https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/"/>
-        <updated>2026-10-08T15:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create System Design Diagrams using Python]]></title>
-        <id>6ac788ce8908dc166f0a0562</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/"/>
-        <updated>2026-10-08T12:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
-        <id>6ac6f9bb8e5c8e3fb8fd0905</id>
-        <link href="https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/"/>
-        <updated>2026-10-08T02:02:35.000Z</updated>
-        <summary type="html"><![CDATA[You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
         <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
         <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox]]></title>
-        <id>6ac49165464372e77035c728</id>
-        <link href="https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/"/>
-        <updated>2026-10-06T06:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc]]></summary>
-        <author>
-            <name>Chirag Agrawal</name>
         </author>
     </entry>
     <entry>
