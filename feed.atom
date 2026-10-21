@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-20T15:31:17.383Z</id>
+    <id>urn:2026-10-21T15:47:17.186Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T15:31:17.383Z</updated>
+    <updated>2026-10-21T15:47:17.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval]]></title>
+        <id>6ad8a5349cd0ba9a078f2e8e</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/"/>
+        <updated>2026-10-21T11:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
+        <id>6ad7987561e15ba931f3a014</id>
+        <link href="https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/"/>
+        <updated>2026-10-20T16:36:05.000Z</updated>
+        <summary type="html"><![CDATA[A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E]]></summary>
+        <author>
+            <name>Samyukta Hegde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline]]></title>
+        <id>6ad7898638fe90993d14433c</id>
+        <link href="https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/"/>
+        <updated>2026-10-20T15:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
         <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
@@ -86,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Anatomy of an AI Data Center]]></title>
-        <id>6ad210e1717d55cb5bae9773</id>
-        <link href="https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/"/>
-        <updated>2026-10-16T11:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Design Software Systems Like a Senior Engineer in Our New Course]]></title>
-        <id>6ad20bc2f10b4af311064a38</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/"/>
-        <updated>2026-10-16T11:34:26.000Z</updated>
-        <summary type="html"><![CDATA[System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is Your Organization Messing Up AI Adoption?]]></title>
         <id>https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/</id>
         <link href="https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"/>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS]]></title>
-        <id>6ad0d6b41b1aaeb205d2d198</id>
-        <link href="https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/"/>
-        <updated>2026-10-15T13:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many]]></summary>
-        <author>
-            <name>Amina Lawal</name>
         </author>
     </entry>
     <entry>
