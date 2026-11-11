@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-10T18:24:10.210Z</id>
+    <id>urn:2026-11-11T18:16:42.415Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-10T18:24:10.210Z</updated>
+    <updated>2026-11-11T18:16:42.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -14,6 +14,16 @@
 CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Agentic Coding with Codex & AI Coding Agents]]></title>
+        <id>6af33ff6e6a1d476dd025c20</id>
+        <link href="https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/"/>
+        <updated>2026-11-10T16:01:58.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -168,16 +178,6 @@ Smashing AI Conference originally handwritten and published with love on CSS-Tri
         <summary type="html"><![CDATA[Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join]]></summary>
         <author>
             <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB]]></title>
-        <id>6aea06ca2d9e47407b2ddc76</id>
-        <link href="https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/"/>
-        <updated>2026-11-03T16:07:38.000Z</updated>
-        <summary type="html"><![CDATA[A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
