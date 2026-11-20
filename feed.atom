@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-19T19:17:36.028Z</id>
+    <id>urn:2026-11-20T18:56:09.057Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T19:17:36.028Z</updated>
+    <updated>2026-11-20T18:56:09.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Andy Clarke answers six questions about Standout Designs for the Web]]></title>
+        <id>https://css-tricks.com/?p=397535</id>
+        <link href="https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/"/>
+        <updated>2026-11-20T15:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.
+The book draws …
+Andy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial]]></title>
+        <id>6aff718ab7bbd995ee693880</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/"/>
+        <updated>2026-11-19T22:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Scrape Websites in Python with Olostep]]></title>
         <id>6aff37e26fa61df077387de3</id>
@@ -192,16 +214,6 @@ CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Agentic Coding with Codex & AI Coding Agents]]></title>
-        <id>6af33ff6e6a1d476dd025c20</id>
-        <link href="https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/"/>
-        <updated>2026-11-10T16:01:58.000Z</updated>
-        <summary type="html"><![CDATA[AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
         <id>https://css-tricks.com/?p=397812</id>
         <link href="https://css-tricks.com/css-tricks-version-20/"/>
@@ -327,17 +339,6 @@ The Frankenstein Table originally handwritten and published with love on CSS-Tr
 What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks has a new owner!]]></title>
-        <id>https://css-tricks.com/?p=397227</id>
-        <link href="https://css-tricks.com/css-tricks-has-a-new-owner/"/>
-        <updated>2026-10-26T15:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.
-CSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
