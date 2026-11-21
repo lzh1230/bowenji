@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-20T18:56:09.057Z</id>
+    <id>urn:2026-11-21T17:50:52.762Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-20T18:56:09.057Z</updated>
+    <updated>2026-11-21T17:50:52.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write an API Migration Guide (With a Real Example)]]></title>
+        <id>6b009404336f5868385eb26f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/"/>
+        <updated>2026-11-20T18:40:04.000Z</updated>
+        <summary type="html"><![CDATA[When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou]]></summary>
+        <author>
+            <name>Chosen Vincent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andy Clarke answers six questions about Standout Designs for the Web]]></title>
         <id>https://css-tricks.com/?p=397535</id>
@@ -169,16 +179,6 @@ Staggering Scroll-Driven Animations with animation-range-start originally handwr
         <summary type="html"><![CDATA[When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c]]></summary>
         <author>
             <name>Yemi Ojedapo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript]]></title>
-        <id>6af6ea1b6758a8ccb76659d6</id>
-        <link href="https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/"/>
-        <updated>2026-11-13T10:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
